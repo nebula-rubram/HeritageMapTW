@@ -1,6 +1,6 @@
 # HeritageMapTW
 
-每天宅在家寫完考古題後無聊，嘗試玩 qgi2web 輸出以前做的專案：「臺灣文化資產（及潛力點）地圖」（ https://nebula-rubram.github.io/HeritageMapTW/index.html ）。目前還是很陽春的 beta 版，懇請惠賜卓見。
+每天宅在家寫完考古題後無聊，嘗試玩 qgis2web 輸出以前做的專案：「臺灣文化資產（及潛力點）地圖」（ https://nebula-rubram.github.io/HeritageMapTW/index.html ）。目前還是很陽春的 beta 版，懇請惠賜卓見。
 
 ![preview image](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.6435-9/s720x720/199800731_4222643904445323_2588662804294158382_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=3V7mVvcY1wcAX_wNYu7&_nc_ht=scontent-tpe1-1.xx&tp=7&oh=2a3146c26877aa0531e897b385b67697&oe=60DC5C50)
 
