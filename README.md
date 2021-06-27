@@ -2,7 +2,7 @@
 
 每天宅在家寫完考古題後無聊，嘗試玩 qgi2web 輸出以前做的專案：「臺灣文化資產（及潛力點）地圖」（ https://nebula-rubram.github.io/HeritageMapTW/index.html ）。目前還是很陽春的 beta 版，懇請惠賜卓見。
 
-![alt 文字][https://scontent-tpe1-1.xx.fbcdn.net/v/t1.6435-9/s720x720/199800731_4222643904445323_2588662804294158382_n.jpg]
+![preview image](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.6435-9/s720x720/199800731_4222643904445323_2588662804294158382_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=3V7mVvcY1wcAX_wNYu7&_nc_ht=scontent-tpe1-1.xx&tp=7&oh=2a3146c26877aa0531e897b385b67697&oe=60DC5C50)
 
 這個專案的圖層，除了幾個自然遺產的 polygon 圖層是撿現成的以外，其他每個點都是我這幾年一個一個標上去的。會花時間標這個，是因為文資局的資料實在太不可靠，不少個案經緯度都直接標在所在鄉鎮的幾何中心，而不是標在正確的位置上，加上文資局自己做的地圖又相當難用，只好自己做一個。
 
