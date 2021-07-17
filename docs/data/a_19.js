@@ -1701,6 +1701,9 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "澎湖金龍頭青年活動中心", "descriptio": null, "period": "民", "T_Name": "馬公市", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.558881924058326, 23.561428551578651 ] } },
 { "type": "Feature", "properties": { "Name": "成功蕭克讓古宅", "descriptio": null, "period": "清", "T_Name": "湖西鄉", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.621680624082245, 23.577967445271085 ] } },
 { "type": "Feature", "properties": { "Name": "天祥營區連級兵舍", "descriptio": "詳細位置不明", "period": "民", "T_Name": "馬公市", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.587001159191161, 23.56637588664432 ] } },
-{ "type": "Feature", "properties": { "Name": "集集樟腦出張所建築群", "descriptio": null, "period": "日", "T_Name": "集集鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.787006427333253, 23.828621631294322 ] } }
+{ "type": "Feature", "properties": { "Name": "集集樟腦出張所建築群", "descriptio": null, "period": "日", "T_Name": "集集鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.787006427333253, 23.828621631294322 ] } },
+{ "type": "Feature", "properties": { "Name": "原大日本武德會社宅", "descriptio": null, "period": "日", "T_Name": "佳里區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.176146843650656, 23.16384626275876 ] } },
+{ "type": "Feature", "properties": { "Name": "原成功大學校門", "descriptio": null, "period": "民", "T_Name": "東區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.218466631688329, 22.996243809290171 ] } },
+{ "type": "Feature", "properties": { "Name": "臺灣銀行高雄分行", "descriptio": null, "period": "民", "T_Name": "前金區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.289551563296797, 22.627799790438807 ] } }
 ]
 }
