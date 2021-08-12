@@ -454,7 +454,7 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "善化糖廠", "descriptio": null, "T_Name": "善化區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.2922302, 23.155088600000049 ] } },
 { "type": "Feature", "properties": { "Name": "玉井糖廠", "descriptio": null, "T_Name": "玉井區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.4588437, 23.125817200000043 ] } },
 { "type": "Feature", "properties": { "Name": "仁德糖廠", "descriptio": null, "T_Name": "仁德區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.2313067, 22.939997400000031 ] } },
-{ "type": "Feature", "properties": { "Name": "原台南刑務所中央台", "descriptio": null, "T_Name": "歸仁區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.267959155191605, 22.929005698590512 ] } },
+{ "type": "Feature", "properties": { "Name": "原台南刑務所中央台（移築）", "descriptio": null, "T_Name": "歸仁區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.267959155191605, 22.929005698590512 ] } },
 { "type": "Feature", "properties": { "Name": "歸仁美學館", "descriptio": null, "T_Name": "歸仁區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.294724625730595, 22.967074597602128 ] } },
 { "type": "Feature", "properties": { "Name": "龍崎庄役場", "descriptio": null, "T_Name": "龍崎區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.360191195393909, 22.964632556568098 ] } },
 { "type": "Feature", "properties": { "Name": "永康糖廠", "descriptio": null, "T_Name": "永康區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.24510380000001, 23.052912 ] } },
@@ -583,6 +583,14 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "山風駐在所", "descriptio": null, "T_Name": "卓溪鄉", "C_Name": "花蓮縣" }, "geometry": { "type": "Point", "coordinates": [ 121.230266118230702, 23.327359570236155 ] } },
 { "type": "Feature", "properties": { "Name": "末廣神社舊址", "descriptio": null, "T_Name": "玉里鎮", "C_Name": "花蓮縣" }, "geometry": { "type": "Point", "coordinates": [ 121.323978980472987, 23.379920846602612 ] } },
 { "type": "Feature", "properties": { "Name": "馬太鞍古屋", "descriptio": null, "T_Name": "光復鄉", "C_Name": "花蓮縣" }, "geometry": { "type": "Point", "coordinates": [ 121.425748472061528, 23.672945678038516 ] } },
-{ "type": "Feature", "properties": { "Name": "宜蘭座", "descriptio": null, "T_Name": "宜蘭市", "C_Name": "宜蘭縣" }, "geometry": { "type": "Point", "coordinates": [ 121.755240831228946, 24.755872985823988 ] } }
+{ "type": "Feature", "properties": { "Name": "宜蘭座", "descriptio": null, "T_Name": "宜蘭市", "C_Name": "宜蘭縣" }, "geometry": { "type": "Point", "coordinates": [ 121.755240831228946, 24.755872985823988 ] } },
+{ "type": "Feature", "properties": { "Name": "舊金沙鎮公所", "descriptio": null, "T_Name": null, "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.4109562, 24.4905939 ] } },
+{ "type": "Feature", "properties": { "Name": "嚨口二營區A05", "descriptio": null, "T_Name": null, "C_Name": null }, "geometry": { "type": "Point", "coordinates": [ 118.3542728, 24.4638066 ] } },
+{ "type": "Feature", "properties": { "Name": "庵邊呂氏開基古厝", "descriptio": null, "T_Name": null, "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.443361100000018, 24.4250143 ] } },
+{ "type": "Feature", "properties": { "Name": "海曙亭", "descriptio": null, "T_Name": null, "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.433187300000014, 24.4099603 ] } },
+{ "type": "Feature", "properties": { "Name": "許獬墓", "descriptio": null, "T_Name": null, "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.314925499999987, 24.4155264 ] } },
+{ "type": "Feature", "properties": { "Name": "許獬「文章垂世孝友傳家坊」", "descriptio": null, "T_Name": null, "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.3197379, 24.4175367 ] } },
+{ "type": "Feature", "properties": { "Name": "許獬墓道碑", "descriptio": null, "T_Name": null, "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.3190707, 24.416948 ] } },
+{ "type": "Feature", "properties": { "Name": "臺北帝大理農學部生徒控室", "descriptio": null, "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.536783200873572, 25.015973155372084 ] } }
 ]
 }

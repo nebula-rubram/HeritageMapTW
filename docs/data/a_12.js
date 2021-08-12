@@ -11,8 +11,11 @@ var json__12 = {
 { "type": "Feature", "properties": { "Name": "八仙洞考古遺址", "descriptio": null, "T_Name": "長濱鄉", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.476567749206311, 23.396995346038381 ] } },
 { "type": "Feature", "properties": { "Name": "卑南考古遺址", "descriptio": null, "T_Name": "臺東市", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.117401615453204, 22.793625128841196 ] } },
 { "type": "Feature", "properties": { "Name": "鳳鼻頭考古遺址", "descriptio": null, "T_Name": "林園區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.367285949938221, 22.510730451718011 ] } },
-{ "type": "Feature", "properties": { "Name": "萬山岩雕群考古遺址", "descriptio": null, "T_Name": "茂林區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.786450302350019, 22.956254995779304 ] } },
+{ "type": "Feature", "properties": { "Name": "萬山岩雕群考古遺址－孤巴察峨", "descriptio": null, "T_Name": "茂林區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.786450302350019, 22.956254995779304 ] } },
 { "type": "Feature", "properties": { "Name": "曲冰考古遺址", "descriptio": null, "T_Name": "仁愛鄉", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 121.079970646468411, 23.9551571296882 ] } },
-{ "type": "Feature", "properties": { "Name": "亮島島尾考古遺址", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 120.227003007795247, 26.345004868857217 ] } }
+{ "type": "Feature", "properties": { "Name": "亮島島尾考古遺址", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 120.227003007795247, 26.345004868857217 ] } },
+{ "type": "Feature", "properties": { "Name": "萬山岩雕群考古遺址－大軋拉烏", "descriptio": null, "T_Name": "茂林區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.782362250742509, 22.953380470925005 ] } },
+{ "type": "Feature", "properties": { "Name": "萬山岩雕群考古遺址－祖布里里", "descriptio": null, "T_Name": "茂林區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.777381592738621, 22.958039407576237 ] } },
+{ "type": "Feature", "properties": { "Name": "萬山岩雕群考古遺址－莎娜奇勒娥", "descriptio": null, "T_Name": "茂林區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.778342649204262, 22.968640824707077 ] } }
 ]
 }
