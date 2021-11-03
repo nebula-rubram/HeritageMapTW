@@ -255,7 +255,7 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "古亭老街", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.521691722072546, 25.026604766545677 ] } },
 { "type": "Feature", "properties": { "Name": "建功神社", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.51209866607779, 25.03218916786269 ] } },
 { "type": "Feature", "properties": { "Name": "基督徒聚會處", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512837976268813, 25.031864145809283 ] } },
-{ "type": "Feature", "properties": { "Name": "阿嬤家-和平與女性人權館", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509284878480216, 25.060355234019713 ] } },
+{ "type": "Feature", "properties": { "Name": "迪化街一段256號", "descriptio": "原 阿嬤家-和平與女性人權館", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509284878480216, 25.060355234019713 ] } },
 { "type": "Feature", "properties": { "Name": "迪化街一段195號、197號、199號（注：聯藝埕）", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509554439408817, 25.059183086694535 ] } },
 { "type": "Feature", "properties": { "Name": "迪化街一段34號（屈臣氏大藥房）（注：小藝埕）", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509987908659198, 25.054662509544638 ] } },
 { "type": "Feature", "properties": { "Name": "民樂街20號、22號（注：眾藝埕）", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510773403587606, 25.056120274531313 ] } },
@@ -263,7 +263,6 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "迪化街一段82號（注：合藝埕）", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509879332836604, 25.055850519165759 ] } },
 { "type": "Feature", "properties": { "Name": "民樂街34號（注：青藝埕）", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510774427900785, 25.056410135888122 ] } },
 { "type": "Feature", "properties": { "Name": "太平町二丁目警察官吏派出所", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511725931394707, 25.052196186617351 ] } },
-{ "type": "Feature", "properties": { "Name": "永樂町五丁目警察官吏派出所", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509233421008318, 25.060463492015877 ] } },
 { "type": "Feature", "properties": { "Name": "永樂公學校", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511086486330385, 25.061234499007131 ] } },
 { "type": "Feature", "properties": { "Name": "葉金塗宅", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513393584260186, 25.059351506122258 ] } },
 { "type": "Feature", "properties": { "Name": "崛仔頭楊宅", "descriptio": null, "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.496615063536382, 25.021718966815985 ] } },
@@ -591,6 +590,16 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "許獬墓", "descriptio": null, "T_Name": null, "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.314925499999987, 24.4155264 ] } },
 { "type": "Feature", "properties": { "Name": "許獬「文章垂世孝友傳家坊」", "descriptio": null, "T_Name": null, "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.3197379, 24.4175367 ] } },
 { "type": "Feature", "properties": { "Name": "許獬墓道碑", "descriptio": null, "T_Name": null, "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.3190707, 24.416948 ] } },
-{ "type": "Feature", "properties": { "Name": "臺北帝大理農學部生徒控室", "descriptio": null, "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.536783200873572, 25.015973155372084 ] } }
+{ "type": "Feature", "properties": { "Name": "臺北帝大理農學部生徒控室", "descriptio": null, "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.536783200873572, 25.015973155372084 ] } },
+{ "type": "Feature", "properties": { "Name": "臺大保健中心（王大閎）", "descriptio": null, "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.539644617469207, 25.016839592042778 ] } },
+{ "type": "Feature", "properties": { "Name": "臺大化學工程館（王大閎）", "descriptio": null, "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.538291933402832, 25.018132509167899 ] } },
+{ "type": "Feature", "properties": { "Name": "臺大女生第九宿舍（王大閎）", "descriptio": null, "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.539380850815107, 25.019658078839196 ] } },
+{ "type": "Feature", "properties": { "Name": "臺大農藝學系（王大閎）", "descriptio": null, "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.540722143835296, 25.018284692589816 ] } },
+{ "type": "Feature", "properties": { "Name": "臺大地質科學館（王大閎）", "descriptio": null, "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.537129539290959, 25.014941834043434 ] } },
+{ "type": "Feature", "properties": { "Name": "臺灣大學歸國學人宿舍（王大閎）", "descriptio": null, "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.545916047203463, 25.015332464544318 ] } },
+{ "type": "Feature", "properties": { "Name": "佳冬飛行場錐狀防空塔", "descriptio": null, "T_Name": "佳冬鄉", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.561870729856224, 22.425446258769046 ] } },
+{ "type": "Feature", "properties": { "Name": "榮道新村（原佳冬飛行場軍營）", "descriptio": null, "T_Name": "佳冬鄉", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.553695184264299, 22.418091576345383 ] } },
+{ "type": "Feature", "properties": { "Name": "蓋淡坑大豐煤礦", "descriptio": null, "T_Name": "樹林區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.386775063783531, 24.974035151828488 ] } },
+{ "type": "Feature", "properties": { "Name": "湊合萬善堂", "descriptio": null, "T_Name": "三峽區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.379996388766955, 24.877231976330279 ] } }
 ]
 }

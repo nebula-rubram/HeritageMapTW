@@ -63,7 +63,7 @@ var json__14 = {
 { "type": "Feature", "properties": { "Name": "橋仔頭糖廠文化景觀", "descriptio": null, "T_Name": "橋頭區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.314289991044717, 22.758246151555259 ] } },
 { "type": "Feature", "properties": { "Name": "左營海軍眷村", "descriptio": null, "T_Name": "左營區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.289235253385002, 22.6951685707119 ] } },
 { "type": "Feature", "properties": { "Name": "鳳山黃埔新村", "descriptio": null, "T_Name": "鳳山區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.364169230181417, 22.618130245974289 ] } },
-{ "type": "Feature", "properties": { "Name": "日本第六海軍燃料廠\n(\n中油宏南宿舍群等\n)", "descriptio": null, "T_Name": "楠梓區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.300275302677704, 22.702414450892995 ] } },
+{ "type": "Feature", "properties": { "Name": "日本第六海軍燃料廠(中油宏南宿舍群等)", "descriptio": null, "T_Name": "楠梓區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.300275302677704, 22.702414450892995 ] } },
 { "type": "Feature", "properties": { "Name": "高雄港站及週邊舊港區鐵道線群與建物群", "descriptio": null, "T_Name": "鼓山區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.276403152798807, 22.622278389091601 ] } },
 { "type": "Feature", "properties": { "Name": "原日本海軍航空隊岡山宿舍群(醒村)", "descriptio": null, "T_Name": "岡山區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.285062037572317, 22.783913666188493 ] } },
 { "type": "Feature", "properties": { "Name": "屏東縣霧台鄉好茶舊社", "descriptio": null, "T_Name": "霧臺鄉", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.736198585711406, 22.698736630267256 ] } },

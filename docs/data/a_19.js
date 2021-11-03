@@ -1704,6 +1704,17 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "集集樟腦出張所建築群", "descriptio": null, "period": "日", "T_Name": "集集鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.787006427333253, 23.828621631294322 ] } },
 { "type": "Feature", "properties": { "Name": "原大日本武德會社宅", "descriptio": null, "period": "日", "T_Name": "佳里區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.176146843650656, 23.16384626275876 ] } },
 { "type": "Feature", "properties": { "Name": "原成功大學校門", "descriptio": null, "period": "民", "T_Name": "東區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.218466631688329, 22.996243809290171 ] } },
-{ "type": "Feature", "properties": { "Name": "臺灣銀行高雄分行", "descriptio": null, "period": "民", "T_Name": "前金區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.289551563296797, 22.627799790438807 ] } }
+{ "type": "Feature", "properties": { "Name": "臺灣銀行高雄分行", "descriptio": null, "period": "民", "T_Name": "前金區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.289551563296797, 22.627799790438807 ] } },
+{ "type": "Feature", "properties": { "Name": "大同區南京西路261號", "descriptio": "含南京西路239巷9號", "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509699686076871, 25.05353200560187 ] } },
+{ "type": "Feature", "properties": { "Name": "迪化街一段127號", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509798689976691, 25.057608811319422 ] } },
+{ "type": "Feature", "properties": { "Name": "迪化街一段349號店屋", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509345813281072, 25.063044733853854 ] } },
+{ "type": "Feature", "properties": { "Name": "大橋教會牧師樓", "descriptio": null, "period": "民", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509594214987629, 25.064985621320236 ] } },
+{ "type": "Feature", "properties": { "Name": "通霄國小仁愛路日式教職員宿舍", "descriptio": null, "period": "日", "T_Name": "通霄鎮", "C_Name": "苗栗縣" }, "geometry": { "type": "Point", "coordinates": [ 120.681656851405364, 24.490813445086189 ] } },
+{ "type": "Feature", "properties": { "Name": "原雲林縣遊民收容所（浮浪者收容所）", "descriptio": null, "period": "日", "T_Name": "斗六市", "C_Name": "雲林縣" }, "geometry": { "type": "Point", "coordinates": [ 120.543063440752093, 23.702945201421873 ] } },
+{ "type": "Feature", "properties": { "Name": "原日本第六海軍燃料廠（高雄煉油廠）", "descriptio": "原印刷工場、技術大樓、焊鉚工場、配管工場、土木工場、前又號倉庫、前二號倉庫、前一號倉庫、材料倉庫辦公室、前三號倉庫、前四號倉庫、前五倉庫、後五號倉庫、半屏山公園、紀念碑��", "period": "日", "T_Name": "楠梓區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.30863517063564, 22.706612923752953 ] } },
+{ "type": "Feature", "properties": { "Name": "原魚池紅茶試驗研究所日式宿舍", "descriptio": null, "period": "日", "T_Name": "魚池鄉", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.908948228484761, 23.868921299416023 ] } },
+{ "type": "Feature", "properties": { "Name": "臺南地方法院虎尾出張所宿舍", "descriptio": null, "period": "日", "T_Name": "虎尾鎮", "C_Name": "雲林縣" }, "geometry": { "type": "Point", "coordinates": [ 120.432909861159317, 23.708340243818967 ] } },
+{ "type": "Feature", "properties": { "Name": "陳善述老宅", "descriptio": null, "period": "日", "T_Name": "竹山鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.732403070474305, 23.812789051670546 ] } },
+{ "type": "Feature", "properties": { "Name": "埔里南村義民祠", "descriptio": null, "period": "清", "T_Name": "埔里鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.944525882689817, 23.963813573377337 ] } }
 ]
 }
