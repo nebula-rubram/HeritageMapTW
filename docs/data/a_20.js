@@ -929,9 +929,12 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "臺灣師範大學原高等學校校舍－講堂", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.526768671496711, 25.026317914463728 ] } },
 { "type": "Feature", "properties": { "Name": "臺灣師範大學原高等學校校舍－文薈廳（生徒控室）", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.528080585206425, 25.025702883724417 ] } },
 { "type": "Feature", "properties": { "Name": "臺灣師範大學原高等學校校舍－普字樓", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.527480853546379, 25.025645785226011 ] } },
-{ "type": "Feature", "properties": { "Name": "永樂町五丁目警察官吏派出所", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509233421008318, 25.060463492015877 ] } },
+{ "type": "Feature", "properties": { "Name": "永樂町派出所", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509233421008318, 25.060463492015877 ] } },
 { "type": "Feature", "properties": { "Name": "陳復禮洋樓", "descriptio": null, "period": "日", "T_Name": "松山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.574045997683015, 25.050786614496413 ] } },
 { "type": "Feature", "properties": { "Name": "原日本第六海軍燃料廠總辦公廳", "descriptio": null, "period": "日", "T_Name": "楠梓區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.303775593519205, 22.703324469386043 ] } },
-{ "type": "Feature", "properties": { "Name": "福生堂醫院", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510710992856943, 25.057726092788485 ] } }
+{ "type": "Feature", "properties": { "Name": "福生堂醫院", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510710992856943, 25.057726092788485 ] } },
+{ "type": "Feature", "properties": { "Name": "新屋范姜老屋(新屋區中正路110巷3號)", "descriptio": null, "period": "清", "T_Name": "新屋區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.104057769376752, 24.974536654859108 ] } },
+{ "type": "Feature", "properties": { "Name": "新屋范姜老屋(新屋區中正路110巷2號)", "descriptio": null, "period": "清", "T_Name": "新屋區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.104005966026165, 24.97430149436466 ] } },
+{ "type": "Feature", "properties": { "Name": "朝陽宮", "descriptio": null, "period": "清", "T_Name": "草屯鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.663962355839999, 23.983519101482958 ] } }
 ]
 }

@@ -984,7 +984,7 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "砲台山(舊稱：大墩)", "descriptio": null, "period": "日", "T_Name": "北區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.683125818804001, 24.144831475919165 ] } },
 { "type": "Feature", "properties": { "Name": "水源地第二集水井", "descriptio": null, "period": "日", "T_Name": "北區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.6896872884668, 24.14934798689076 ] } },
 { "type": "Feature", "properties": { "Name": "中山綠橋(舊稱：新盛橋)", "descriptio": null, "period": "日", "T_Name": "中區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.683130449944983, 24.137878012237962 ] } },
-{ "type": "Feature", "properties": { "Name": "中區第一任街長宅第(不含定著土地)", "descriptio": null, "period": "日", "T_Name": "中區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.679601894231809, 24.143153313545341 ] } },
+{ "type": "Feature", "properties": { "Name": "原大墩街王宅", "descriptio": null, "period": "日", "T_Name": "中區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.679601894231809, 24.143153313545341 ] } },
 { "type": "Feature", "properties": { "Name": "瑾園", "descriptio": null, "period": "日", "T_Name": "東區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.688929510648705, 24.133478519768804 ] } },
 { "type": "Feature", "properties": { "Name": "臺中市火車站附屬設施及建築群--新民街倉庫群(11、12、13、14、15、16、17號倉庫)", "descriptio": "東區新民街51號、53號、55號、57號、59號、61號、63號、65號、67號、69號、71號、73號、75號、77號、79號", "period": "民", "T_Name": "東區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.688741489143894, 24.138343498041873 ] } },
 { "type": "Feature", "properties": { "Name": "臺中市火車站附屬設施及建築群--20號倉庫群", "descriptio": "東區復興路四段37巷內20、21、22、23、24、25、26號倉庫（無門牌）", "period": "民", "T_Name": "東區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.684324191507983, 24.135900137626717 ] } },
@@ -1188,7 +1188,6 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "竹塘醒靈宮聖蹟亭", "descriptio": null, "period": "民", "T_Name": "竹塘鄉", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.411963977156006, 23.886405494719057 ] } },
 { "type": "Feature", "properties": { "Name": "西螺大橋(北段)", "descriptio": null, "period": "民", "T_Name": "溪州鄉", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.462815848470001, 23.822071290556657 ] } },
 { "type": "Feature", "properties": { "Name": "北斗中正堂", "descriptio": null, "period": "民", "T_Name": "北斗鎮", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.522178832315987, 23.875651512262852 ] } },
-{ "type": "Feature", "properties": { "Name": "朝陽宮", "descriptio": null, "period": "清", "T_Name": "草屯鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.663962355839999, 23.983519101482958 ] } },
 { "type": "Feature", "properties": { "Name": "旗杆厝", "descriptio": null, "period": "清", "T_Name": "南投市", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.685723872682999, 23.910553784668359 ] } },
 { "type": "Feature", "properties": { "Name": "南投縣陳姓宗親會西水祠", "descriptio": null, "period": "清", "T_Name": "名間鄉", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.694476860855985, 23.876633719705961 ] } },
 { "type": "Feature", "properties": { "Name": "甘泉井及石頭公", "descriptio": null, "period": "清", "T_Name": "竹山鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.727370030588006, 23.805436589273253 ] } },
@@ -1715,6 +1714,7 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "原魚池紅茶試驗研究所日式宿舍", "descriptio": null, "period": "日", "T_Name": "魚池鄉", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.908948228484761, 23.868921299416023 ] } },
 { "type": "Feature", "properties": { "Name": "臺南地方法院虎尾出張所宿舍", "descriptio": null, "period": "日", "T_Name": "虎尾鎮", "C_Name": "雲林縣" }, "geometry": { "type": "Point", "coordinates": [ 120.432909861159317, 23.708340243818967 ] } },
 { "type": "Feature", "properties": { "Name": "陳善述老宅", "descriptio": null, "period": "日", "T_Name": "竹山鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.732403070474305, 23.812789051670546 ] } },
-{ "type": "Feature", "properties": { "Name": "埔里南村義民祠", "descriptio": null, "period": "清", "T_Name": "埔里鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.944525882689817, 23.963813573377337 ] } }
+{ "type": "Feature", "properties": { "Name": "埔里南村義民祠", "descriptio": null, "period": "清", "T_Name": "埔里鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.944525882689817, 23.963813573377337 ] } },
+{ "type": "Feature", "properties": { "Name": "東石蔦松許宅", "descriptio": null, "period": "日", "T_Name": "東石鄉", "C_Name": "嘉義縣" }, "geometry": { "type": "Point", "coordinates": [ 120.221058628796939, 23.468373794265929 ] } }
 ]
 }

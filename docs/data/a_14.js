@@ -26,7 +26,7 @@ var json__14 = {
 { "type": "Feature", "properties": { "Name": "平溪竿蓁坑古道", "descriptio": null, "T_Name": "平溪區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.733341602764185, 25.014400140785384 ] } },
 { "type": "Feature", "properties": { "Name": "瑞芳臺金濂洞煉銅廠煙道", "descriptio": null, "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.863480851817812, 25.116088066108709 ] } },
 { "type": "Feature", "properties": { "Name": "新莊樂生療養院", "descriptio": null, "T_Name": "新莊區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.408767579322401, 25.022613190365092 ] } },
-{ "type": "Feature", "properties": { "Name": "新店渡", "descriptio": null, "T_Name": "新店區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.538567600131003, 24.951133329438093 ] } },
+{ "type": "Feature", "properties": { "Name": "新店渡", "descriptio": null, "T_Name": "新店區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.537809633198322, 24.951449559346749 ] } },
 { "type": "Feature", "properties": { "Name": "二結圳", "descriptio": null, "T_Name": "五結鄉", "C_Name": "宜蘭縣" }, "geometry": { "type": "Point", "coordinates": [ 121.772647339276801, 24.705817982697141 ] } },
 { "type": "Feature", "properties": { "Name": "羅東林場", "descriptio": null, "T_Name": "羅東鎮", "C_Name": "宜蘭縣" }, "geometry": { "type": "Point", "coordinates": [ 121.772418347463898, 24.683719871691153 ] } },
 { "type": "Feature", "properties": { "Name": "深溝水源地", "descriptio": null, "T_Name": "員山鄉", "C_Name": "宜蘭縣" }, "geometry": { "type": "Point", "coordinates": [ 121.706481570990491, 24.721498438542827 ] } },

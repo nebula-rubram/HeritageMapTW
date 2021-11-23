@@ -600,6 +600,8 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "佳冬飛行場錐狀防空塔", "descriptio": null, "T_Name": "佳冬鄉", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.561870729856224, 22.425446258769046 ] } },
 { "type": "Feature", "properties": { "Name": "榮道新村（原佳冬飛行場軍營）", "descriptio": null, "T_Name": "佳冬鄉", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.553695184264299, 22.418091576345383 ] } },
 { "type": "Feature", "properties": { "Name": "蓋淡坑大豐煤礦", "descriptio": null, "T_Name": "樹林區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.386775063783531, 24.974035151828488 ] } },
-{ "type": "Feature", "properties": { "Name": "湊合萬善堂", "descriptio": null, "T_Name": "三峽區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.379996388766955, 24.877231976330279 ] } }
+{ "type": "Feature", "properties": { "Name": "湊合萬善堂", "descriptio": null, "T_Name": "三峽區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.379996388766955, 24.877231976330279 ] } },
+{ "type": "Feature", "properties": { "Name": "專賣局埔里出張所", "descriptio": null, "T_Name": "埔里鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.960268152752548, 23.967857319782112 ] } },
+{ "type": "Feature", "properties": { "Name": "灣潭行啟紀念碑", "descriptio": null, "T_Name": "新店區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.535883542955872, 24.946984486822135 ] } }
 ]
 }
