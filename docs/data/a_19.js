@@ -1715,6 +1715,9 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "臺南地方法院虎尾出張所宿舍", "descriptio": null, "period": "日", "T_Name": "虎尾鎮", "C_Name": "雲林縣" }, "geometry": { "type": "Point", "coordinates": [ 120.432909861159317, 23.708340243818967 ] } },
 { "type": "Feature", "properties": { "Name": "陳善述老宅", "descriptio": null, "period": "日", "T_Name": "竹山鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.732403070474305, 23.812789051670546 ] } },
 { "type": "Feature", "properties": { "Name": "埔里南村義民祠", "descriptio": null, "period": "清", "T_Name": "埔里鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.944525882689817, 23.963813573377337 ] } },
-{ "type": "Feature", "properties": { "Name": "東石蔦松許宅", "descriptio": null, "period": "日", "T_Name": "東石鄉", "C_Name": "嘉義縣" }, "geometry": { "type": "Point", "coordinates": [ 120.221058628796939, 23.468373794265929 ] } }
+{ "type": "Feature", "properties": { "Name": "東石蔦松許宅", "descriptio": null, "period": "日", "T_Name": "東石鄉", "C_Name": "嘉義縣" }, "geometry": { "type": "Point", "coordinates": [ 120.221058628796939, 23.468373794265929 ] } },
+{ "type": "Feature", "properties": { "Name": "士林紙廠", "descriptio": "廠長室、成品及物料倉庫、一號抄紙機室、調成室A、調整部、蒸球間、加工間、實驗室、貼糊間、車床間、舊鍋爐間、醫務室及福利社、警衛室、車庫", "period": "日", "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.523784300199395, 25.091432801771532 ] } },
+{ "type": "Feature", "properties": { "Name": "迪化街一段256號", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509284878480216, 25.060355234019713 ] } },
+{ "type": "Feature", "properties": { "Name": "臺中車站機關車庫遺構", "descriptio": null, "period": "日", "T_Name": "東區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.688204980269575, 24.137764745093701 ] } }
 ]
 }

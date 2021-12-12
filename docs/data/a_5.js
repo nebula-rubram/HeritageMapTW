@@ -255,7 +255,6 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "古亭老街", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.521691722072546, 25.026604766545677 ] } },
 { "type": "Feature", "properties": { "Name": "建功神社", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.51209866607779, 25.03218916786269 ] } },
 { "type": "Feature", "properties": { "Name": "基督徒聚會處", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512837976268813, 25.031864145809283 ] } },
-{ "type": "Feature", "properties": { "Name": "迪化街一段256號", "descriptio": "原 阿嬤家-和平與女性人權館", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509284878480216, 25.060355234019713 ] } },
 { "type": "Feature", "properties": { "Name": "迪化街一段195號、197號、199號（注：聯藝埕）", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509554439408817, 25.059183086694535 ] } },
 { "type": "Feature", "properties": { "Name": "迪化街一段34號（屈臣氏大藥房）（注：小藝埕）", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509987908659198, 25.054662509544638 ] } },
 { "type": "Feature", "properties": { "Name": "民樂街20號、22號（注：眾藝埕）", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510773403587606, 25.056120274531313 ] } },
@@ -285,7 +284,6 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "魏靜時故居", "descriptio": null, "T_Name": "南港區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.638228008833039, 25.030296446891331 ] } },
 { "type": "Feature", "properties": { "Name": "荖寮製茶所", "descriptio": null, "T_Name": "南港區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.637875073248239, 25.031287705237336 ] } },
 { "type": "Feature", "properties": { "Name": "大坑余氏舊宅", "descriptio": null, "T_Name": "南港區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.659067173432561, 25.024399756320964 ] } },
-{ "type": "Feature", "properties": { "Name": "台灣製紙株式會社", "descriptio": null, "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.523954714153419, 25.091490694232792 ] } },
 { "type": "Feature", "properties": { "Name": "同歸所", "descriptio": null, "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.532572241249312, 25.103064796137712 ] } },
 { "type": "Feature", "properties": { "Name": "學務官僚遭難碑", "descriptio": null, "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.532779741428996, 25.102927794071956 ] } },
 { "type": "Feature", "properties": { "Name": "六氏先生墓", "descriptio": null, "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.532320533385388, 25.103140937890046 ] } },
@@ -602,6 +600,8 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "蓋淡坑大豐煤礦", "descriptio": null, "T_Name": "樹林區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.386775063783531, 24.974035151828488 ] } },
 { "type": "Feature", "properties": { "Name": "湊合萬善堂", "descriptio": null, "T_Name": "三峽區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.379996388766955, 24.877231976330279 ] } },
 { "type": "Feature", "properties": { "Name": "專賣局埔里出張所", "descriptio": null, "T_Name": "埔里鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.960268152752548, 23.967857319782112 ] } },
-{ "type": "Feature", "properties": { "Name": "灣潭行啟紀念碑", "descriptio": null, "T_Name": "新店區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.535883542955872, 24.946984486822135 ] } }
+{ "type": "Feature", "properties": { "Name": "灣潭行啟紀念碑", "descriptio": null, "T_Name": "新店區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.535883542955872, 24.946984486822135 ] } },
+{ "type": "Feature", "properties": { "Name": "長光岩棺", "descriptio": null, "T_Name": "長濱鄉", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.458289881106111, 23.328806696650155 ] } },
+{ "type": "Feature", "properties": { "Name": "舊東勢屠宰場獸魂碑（指定一般古物）", "descriptio": null, "T_Name": "東勢區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.836381991438543, 24.265420839042058 ] } }
 ]
 }
