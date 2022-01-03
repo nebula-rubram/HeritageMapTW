@@ -602,6 +602,7 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "專賣局埔里出張所", "descriptio": null, "T_Name": "埔里鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.960268152752548, 23.967857319782112 ] } },
 { "type": "Feature", "properties": { "Name": "灣潭行啟紀念碑", "descriptio": null, "T_Name": "新店區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.535883542955872, 24.946984486822135 ] } },
 { "type": "Feature", "properties": { "Name": "長光岩棺", "descriptio": null, "T_Name": "長濱鄉", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.458289881106111, 23.328806696650155 ] } },
-{ "type": "Feature", "properties": { "Name": "舊東勢屠宰場獸魂碑（指定一般古物）", "descriptio": null, "T_Name": "東勢區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.836381991438543, 24.265420839042058 ] } }
+{ "type": "Feature", "properties": { "Name": "舊東勢屠宰場獸魂碑（指定一般古物）", "descriptio": null, "T_Name": "東勢區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.836381991438543, 24.265420839042058 ] } },
+{ "type": "Feature", "properties": { "Name": "芝野醫院", "descriptio": null, "T_Name": "東區", "C_Name": "嘉義市" }, "geometry": { "type": "Point", "coordinates": [ 120.451068650463824, 23.480714280471322 ] } }
 ]
 }

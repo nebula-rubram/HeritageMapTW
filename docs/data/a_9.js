@@ -3,7 +3,6 @@ var json__9 = {
 "name": "_9",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Name": "關渡自然保留區", "descriptio": null, "T_Name": "北投區", "C_Name": "臺北市", "Level": "國定" }, "geometry": { "type": "Point", "coordinates": [ 121.469542571440897, 25.112741164366309 ] } },
 { "type": "Feature", "properties": { "Name": "北投石自然保留區", "descriptio": null, "T_Name": "北投區", "C_Name": "臺北市", "Level": "縣市定" }, "geometry": { "type": "Point", "coordinates": [ 121.508825548480303, 25.136632593088894 ] } },
 { "type": "Feature", "properties": { "Name": "淡水河紅樹林自然保留區", "descriptio": null, "T_Name": "淡水區", "C_Name": "新北市", "Level": "國定" }, "geometry": { "type": "Point", "coordinates": [ 121.455149111265712, 25.156997025610139 ] } },
 { "type": "Feature", "properties": { "Name": "哈盆自然保留區", "descriptio": null, "T_Name": "烏來區", "C_Name": "新北市", "Level": "國定" }, "geometry": { "type": "Point", "coordinates": [ 121.59015730298249, 24.747767927911472 ] } },

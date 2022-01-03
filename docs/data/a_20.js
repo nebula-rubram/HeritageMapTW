@@ -935,6 +935,10 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "福生堂醫院", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510710992856943, 25.057726092788485 ] } },
 { "type": "Feature", "properties": { "Name": "新屋范姜老屋(新屋區中正路110巷3號)", "descriptio": null, "period": "清", "T_Name": "新屋區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.104057769376752, 24.974536654859108 ] } },
 { "type": "Feature", "properties": { "Name": "新屋范姜老屋(新屋區中正路110巷2號)", "descriptio": null, "period": "清", "T_Name": "新屋區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.104005966026165, 24.97430149436466 ] } },
-{ "type": "Feature", "properties": { "Name": "朝陽宮", "descriptio": null, "period": "清", "T_Name": "草屯鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.663962355839999, 23.983519101482958 ] } }
+{ "type": "Feature", "properties": { "Name": "朝陽宮", "descriptio": null, "period": "清", "T_Name": "草屯鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.663962355839999, 23.983519101482958 ] } },
+{ "type": "Feature", "properties": { "Name": "新竹州廳附屬建築（市府檔案室）", "descriptio": null, "period": "日", "T_Name": "東區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.96947399368257, 24.807138574616829 ] } },
+{ "type": "Feature", "properties": { "Name": "北門國小同心堂", "descriptio": null, "period": "日", "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.966089758336693, 24.814003986485169 ] } },
+{ "type": "Feature", "properties": { "Name": "北門國小百齡樓", "descriptio": null, "period": "日", "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.965717735532806, 24.813711333841827 ] } },
+{ "type": "Feature", "properties": { "Name": "林九牧公祠", "descriptio": null, "period": "清", "T_Name": "潭子區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.714715511492727, 24.223399864527671 ] } }
 ]
 }

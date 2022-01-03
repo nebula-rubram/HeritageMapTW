@@ -1718,6 +1718,9 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "東石蔦松許宅", "descriptio": null, "period": "日", "T_Name": "東石鄉", "C_Name": "嘉義縣" }, "geometry": { "type": "Point", "coordinates": [ 120.221058628796939, 23.468373794265929 ] } },
 { "type": "Feature", "properties": { "Name": "士林紙廠", "descriptio": "廠長室、成品及物料倉庫、一號抄紙機室、調成室A、調整部、蒸球間、加工間、實驗室、貼糊間、車床間、舊鍋爐間、醫務室及福利社、警衛室、車庫", "period": "日", "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.523784300199395, 25.091432801771532 ] } },
 { "type": "Feature", "properties": { "Name": "迪化街一段256號", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509284878480216, 25.060355234019713 ] } },
-{ "type": "Feature", "properties": { "Name": "臺中車站機關車庫遺構", "descriptio": null, "period": "日", "T_Name": "東區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.688204980269575, 24.137764745093701 ] } }
+{ "type": "Feature", "properties": { "Name": "臺中車站機關車庫遺構", "descriptio": null, "period": "日", "T_Name": "東區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.688204980269575, 24.137764745093701 ] } },
+{ "type": "Feature", "properties": { "Name": "龜山樟腦寮協和磚廠", "descriptio": "半毀，位置並不精確", "period": "日", "T_Name": "龜山區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.386569190863085, 25.04194172525288 ] } },
+{ "type": "Feature", "properties": { "Name": "中壢鐵道4號、5號倉庫", "descriptio": null, "period": "日", "T_Name": "中壢區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.227851425467421, 24.954549616317994 ] } },
+{ "type": "Feature", "properties": { "Name": "市府大禮堂", "descriptio": null, "period": "民", "T_Name": "東區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.96966680926424, 24.806934020745356 ] } }
 ]
 }

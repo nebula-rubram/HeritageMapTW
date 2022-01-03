@@ -18,6 +18,7 @@ var json__18 = {
 { "type": "Feature", "properties": { "Name": "林之助畫室", "descriptio": null, "T_Name": "西區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.673474758419999, 24.141199311788661 ] } },
 { "type": "Feature", "properties": { "Name": "臺靜農故居", "descriptio": null, "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.533628443669812, 25.024672662887163 ] } },
 { "type": "Feature", "properties": { "Name": "錢穆故居", "descriptio": null, "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.547987073950949, 25.094094252960407 ] } },
-{ "type": "Feature", "properties": { "Name": "朱錫甘澎湖沙港旅居住所", "descriptio": null, "T_Name": "湖西鄉", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.621952394579409, 23.604712911653237 ] } }
+{ "type": "Feature", "properties": { "Name": "朱錫甘澎湖沙港旅居住所", "descriptio": null, "T_Name": "湖西鄉", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.621952394579409, 23.604712911653237 ] } },
+{ "type": "Feature", "properties": { "Name": "清華大學梅貽琦校長墓園", "descriptio": "ㄉ", "T_Name": "東區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.990766144219123, 24.792900687406089 ] } }
 ]
 }
