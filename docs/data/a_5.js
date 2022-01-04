@@ -603,6 +603,7 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "灣潭行啟紀念碑", "descriptio": null, "T_Name": "新店區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.535883542955872, 24.946984486822135 ] } },
 { "type": "Feature", "properties": { "Name": "長光岩棺", "descriptio": null, "T_Name": "長濱鄉", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.458289881106111, 23.328806696650155 ] } },
 { "type": "Feature", "properties": { "Name": "舊東勢屠宰場獸魂碑（指定一般古物）", "descriptio": null, "T_Name": "東勢區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.836381991438543, 24.265420839042058 ] } },
-{ "type": "Feature", "properties": { "Name": "芝野醫院", "descriptio": null, "T_Name": "東區", "C_Name": "嘉義市" }, "geometry": { "type": "Point", "coordinates": [ 120.451068650463824, 23.480714280471322 ] } }
+{ "type": "Feature", "properties": { "Name": "芝野醫院", "descriptio": null, "T_Name": "東區", "C_Name": "嘉義市" }, "geometry": { "type": "Point", "coordinates": [ 120.451068650463824, 23.480714280471322 ] } },
+{ "type": "Feature", "properties": { "Name": "日本陸軍第50師團（蓬部隊）司令部要塞", "descriptio": "標示位置並不精確", "T_Name": "枋寮鄉", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.615264946219469, 22.417141468386163 ] } }
 ]
 }

@@ -939,6 +939,7 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "新竹州廳附屬建築（市府檔案室）", "descriptio": null, "period": "日", "T_Name": "東區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.96947399368257, 24.807138574616829 ] } },
 { "type": "Feature", "properties": { "Name": "北門國小同心堂", "descriptio": null, "period": "日", "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.966089758336693, 24.814003986485169 ] } },
 { "type": "Feature", "properties": { "Name": "北門國小百齡樓", "descriptio": null, "period": "日", "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.965717735532806, 24.813711333841827 ] } },
-{ "type": "Feature", "properties": { "Name": "林九牧公祠", "descriptio": null, "period": "清", "T_Name": "潭子區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.714715511492727, 24.223399864527671 ] } }
+{ "type": "Feature", "properties": { "Name": "林九牧公祠", "descriptio": null, "period": "清", "T_Name": "潭子區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.714715511492727, 24.223399864527671 ] } },
+{ "type": "Feature", "properties": { "Name": "員林保安堂曾春泉洋樓", "descriptio": null, "period": "日", "T_Name": "員林市", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.574848759157959, 23.956979223720122 ] } }
 ]
 }
