@@ -1725,6 +1725,7 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "新店劉氏利記公厝（重組位置）", "descriptio": null, "period": "清", "T_Name": "新店區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.527411104369151, 24.98018829795376 ] } },
 { "type": "Feature", "properties": { "Name": "新店大坪林劉氏文記堂（重組位置）", "descriptio": null, "period": "清", "T_Name": "新店區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.527728286897528, 24.980566603043567 ] } },
 { "type": "Feature", "properties": { "Name": "新店劉氏家廟（啟文堂）（重組位置）", "descriptio": null, "period": "清", "T_Name": "新店區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.527780667873017, 24.98025430612023 ] } },
-{ "type": "Feature", "properties": { "Name": "林安泰古厝（原始位置）", "descriptio": "於濱江街重組", "period": "清", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.548324206301018, 25.029738137472975 ] } }
+{ "type": "Feature", "properties": { "Name": "林安泰古厝（原始位置）", "descriptio": "於濱江街重組", "period": "清", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.548324206301018, 25.029738137472975 ] } },
+{ "type": "Feature", "properties": { "Name": "東門國小日式宿舍", "descriptio": null, "period": "日", "T_Name": "桃園區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.315280591311904, 24.994149240256728 ] } }
 ]
 }

@@ -206,7 +206,7 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "虎字碑", "descriptio": null, "period": "清", "T_Name": "貢寮區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.926034887074223, 24.980614427329417 ] } },
 { "type": "Feature", "properties": { "Name": "淡水崎仔頂施家古厝", "descriptio": null, "period": "清", "T_Name": "淡水區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.441268812132805, 25.170014323034287 ] } },
 { "type": "Feature", "properties": { "Name": "淡水公司田溪橋遺蹟", "descriptio": null, "period": "清", "T_Name": "淡水區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.443715917283001, 25.190224228948637 ] } },
-{ "type": "Feature", "properties": { "Name": "前清淡水關稅務司官邸", "descriptio": null, "period": "清", "T_Name": "淡水區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.436306391506108, 25.174124041354698 ] } },
+{ "type": "Feature", "properties": { "Name": "小白宮", "descriptio": "誤植為前清淡水關稅務司官邸", "period": "清", "T_Name": "淡水區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.436306391506108, 25.174124041354698 ] } },
 { "type": "Feature", "properties": { "Name": "淡水外僑墓園", "descriptio": null, "period": "清", "T_Name": "淡水區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.4378582935948, 25.176807968752183 ] } },
 { "type": "Feature", "properties": { "Name": "滬尾偕醫館", "descriptio": null, "period": "清", "T_Name": "淡水區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.438502559269196, 25.171818144463757 ] } },
 { "type": "Feature", "properties": { "Name": "淡水禮拜堂", "descriptio": null, "period": "清", "T_Name": "淡水區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.438463124836801, 25.172040521524249 ] } },
@@ -940,6 +940,7 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "北門國小同心堂", "descriptio": null, "period": "日", "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.966089758336693, 24.814003986485169 ] } },
 { "type": "Feature", "properties": { "Name": "北門國小百齡樓", "descriptio": null, "period": "日", "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.965717735532806, 24.813711333841827 ] } },
 { "type": "Feature", "properties": { "Name": "林九牧公祠", "descriptio": null, "period": "清", "T_Name": "潭子區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.714715511492727, 24.223399864527671 ] } },
-{ "type": "Feature", "properties": { "Name": "員林保安堂曾春泉洋樓", "descriptio": null, "period": "日", "T_Name": "員林市", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.574848759157959, 23.956979223720122 ] } }
+{ "type": "Feature", "properties": { "Name": "員林保安堂曾春泉洋樓", "descriptio": null, "period": "日", "T_Name": "員林市", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.574848759157959, 23.956979223720122 ] } },
+{ "type": "Feature", "properties": { "Name": "麻豆大埕郭舉人宅", "descriptio": null, "period": "清", "T_Name": "麻豆區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.250313457190174, 23.186471361712407 ] } }
 ]
 }

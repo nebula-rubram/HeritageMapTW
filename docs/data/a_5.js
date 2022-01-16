@@ -255,12 +255,12 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "古亭老街", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.521691722072546, 25.026604766545677 ] } },
 { "type": "Feature", "properties": { "Name": "建功神社", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.51209866607779, 25.03218916786269 ] } },
 { "type": "Feature", "properties": { "Name": "基督徒聚會處", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512837976268813, 25.031864145809283 ] } },
-{ "type": "Feature", "properties": { "Name": "迪化街一段195號、197號、199號（注：聯藝埕）", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509554439408817, 25.059183086694535 ] } },
-{ "type": "Feature", "properties": { "Name": "迪化街一段34號（屈臣氏大藥房）（注：小藝埕）", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509987908659198, 25.054662509544638 ] } },
-{ "type": "Feature", "properties": { "Name": "民樂街20號、22號（注：眾藝埕）", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510773403587606, 25.056120274531313 ] } },
-{ "type": "Feature", "properties": { "Name": "迪化街一段167號（注：學藝埕）", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509718500955813, 25.058612914387382 ] } },
-{ "type": "Feature", "properties": { "Name": "迪化街一段82號（注：合藝埕）", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509879332836604, 25.055850519165759 ] } },
-{ "type": "Feature", "properties": { "Name": "民樂街34號（注：青藝埕）", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510774427900785, 25.056410135888122 ] } },
+{ "type": "Feature", "properties": { "Name": "迪化街一段195號、197號、199號", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509554439408817, 25.059183086694535 ] } },
+{ "type": "Feature", "properties": { "Name": "迪化街一段34號（屈臣氏大藥房）", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509987908659198, 25.054662509544638 ] } },
+{ "type": "Feature", "properties": { "Name": "民樂街20號、22號", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510773403587606, 25.056120274531313 ] } },
+{ "type": "Feature", "properties": { "Name": "迪化街一段167號", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509718500955813, 25.058612914387382 ] } },
+{ "type": "Feature", "properties": { "Name": "迪化街一段82號", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509879332836604, 25.055850519165759 ] } },
+{ "type": "Feature", "properties": { "Name": "民樂街34號", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510774427900785, 25.056410135888122 ] } },
 { "type": "Feature", "properties": { "Name": "太平町二丁目警察官吏派出所", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511725931394707, 25.052196186617351 ] } },
 { "type": "Feature", "properties": { "Name": "永樂公學校", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511086486330385, 25.061234499007131 ] } },
 { "type": "Feature", "properties": { "Name": "葉金塗宅", "descriptio": null, "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513393584260186, 25.059351506122258 ] } },
@@ -604,6 +604,10 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "長光岩棺", "descriptio": null, "T_Name": "長濱鄉", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.458289881106111, 23.328806696650155 ] } },
 { "type": "Feature", "properties": { "Name": "舊東勢屠宰場獸魂碑（指定一般古物）", "descriptio": null, "T_Name": "東勢區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.836381991438543, 24.265420839042058 ] } },
 { "type": "Feature", "properties": { "Name": "芝野醫院", "descriptio": null, "T_Name": "東區", "C_Name": "嘉義市" }, "geometry": { "type": "Point", "coordinates": [ 120.451068650463824, 23.480714280471322 ] } },
-{ "type": "Feature", "properties": { "Name": "日本陸軍第50師團（蓬部隊）司令部要塞", "descriptio": "標示位置並不精確", "T_Name": "枋寮鄉", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.615264946219469, 22.417141468386163 ] } }
+{ "type": "Feature", "properties": { "Name": "日本陸軍第50師團（蓬部隊）司令部要塞", "descriptio": "標示位置並不精確", "T_Name": "枋寮鄉", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.615264946219469, 22.417141468386163 ] } },
+{ "type": "Feature", "properties": { "Name": "奇巖洞", "descriptio": null, "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.507549264652255, 25.130823624654241 ] } },
+{ "type": "Feature", "properties": { "Name": "星乃湯（逸邨）", "descriptio": null, "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512549035092178, 25.138045808487117 ] } },
+{ "type": "Feature", "properties": { "Name": "天狗庵入口階梯及門柱", "descriptio": null, "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.506566601518671, 25.135847420250247 ] } },
+{ "type": "Feature", "properties": { "Name": "雪廬山思源碑", "descriptio": null, "T_Name": "卓蘭鎮", "C_Name": "苗栗縣" }, "geometry": { "type": "Point", "coordinates": [ 120.874122103497129, 24.316481327094227 ] } }
 ]
 }
