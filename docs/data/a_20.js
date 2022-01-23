@@ -106,7 +106,7 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "建國啤酒廠", "descriptio": "貯酒室及發酵室、糖化室及原料調合室、蒸發室、冷凍機室、冷凍機及配電室、用水處理室、糖化大樓、新發酵儲酒大樓、鍋爐室、舊成品倉庫、抽水機室", "period": "日", "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.535463820680093, 25.046546837793258 ] } },
 { "type": "Feature", "properties": { "Name": "蔡瑞月舞蹈研究社", "descriptio": null, "period": "日", "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.522123257582308, 25.05571143441195 ] } },
 { "type": "Feature", "properties": { "Name": "前美國大使官邸", "descriptio": null, "period": "日", "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.522171715772103, 25.05325780046558 ] } },
-{ "type": "Feature", "properties": { "Name": "臺北第三高女", "descriptio": null, "period": "日", "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.537789743413185, 25.048843836324611 ] } },
+{ "type": "Feature", "properties": { "Name": "臺北第三高女", "descriptio": null, "period": "日", "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.537391577724875, 25.048808979959301 ] } },
 { "type": "Feature", "properties": { "Name": "中山基督長老教會", "descriptio": null, "period": "日", "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.524303791352196, 25.04892392421889 ] } },
 { "type": "Feature", "properties": { "Name": "臺北工業學校紅樓", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.534446857975311, 25.043192437872609 ] } },
 { "type": "Feature", "properties": { "Name": "紫藤廬", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.534376190480117, 25.024587837818025 ] } },
@@ -151,7 +151,7 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "草山水道系統－第二水管橋", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.540199515564396, 25.156429294003903 ] } },
 { "type": "Feature", "properties": { "Name": "草山水道系統－第三水源取入井", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.543669444444504, 25.142427059029586 ] } },
 { "type": "Feature", "properties": { "Name": "草山御賓館", "descriptio": null, "period": "日", "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.551328857810617, 25.150989520974356 ] } },
-{ "type": "Feature", "properties": { "Name": "北投臺灣銀行舊宿舍", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511567411850521, 25.136728310156442 ] } },
+{ "type": "Feature", "properties": { "Name": "北投臺灣銀行舊宿舍", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.51167730036353, 25.136684721085388 ] } },
 { "type": "Feature", "properties": { "Name": "北投文物館", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.514697258364805, 25.138106162346272 ] } },
 { "type": "Feature", "properties": { "Name": "北投不動明王石窟", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.517574003305796, 25.137863153239099 ] } },
 { "type": "Feature", "properties": { "Name": "草山教師研習中心", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.549599355977179, 25.150575487284556 ] } },
@@ -941,6 +941,8 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "北門國小百齡樓", "descriptio": null, "period": "日", "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.965717735532806, 24.813711333841827 ] } },
 { "type": "Feature", "properties": { "Name": "林九牧公祠", "descriptio": null, "period": "清", "T_Name": "潭子區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.714715511492727, 24.223399864527671 ] } },
 { "type": "Feature", "properties": { "Name": "員林保安堂曾春泉洋樓", "descriptio": null, "period": "日", "T_Name": "員林市", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.574848759157959, 23.956979223720122 ] } },
-{ "type": "Feature", "properties": { "Name": "麻豆大埕郭舉人宅", "descriptio": null, "period": "清", "T_Name": "麻豆區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.250313457190174, 23.186471361712407 ] } }
+{ "type": "Feature", "properties": { "Name": "麻豆大埕郭舉人宅", "descriptio": null, "period": "清", "T_Name": "麻豆區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.250313457190174, 23.186471361712407 ] } },
+{ "type": "Feature", "properties": { "Name": "衡陽路11號", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.51365451125416, 25.042406482880743 ] } },
+{ "type": "Feature", "properties": { "Name": "衡陽路2號", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513915212719709, 25.042242975026333 ] } }
 ]
 }

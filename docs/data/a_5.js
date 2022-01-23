@@ -233,12 +233,10 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "南門町三二三", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511111672584718, 25.032554638436995 ] } },
 { "type": "Feature", "properties": { "Name": "一六軒", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513337023302213, 25.043025815086992 ] } },
 { "type": "Feature", "properties": { "Name": "近藤商會", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511590782010202, 25.04317571012384 ] } },
-{ "type": "Feature", "properties": { "Name": "臺大藥學系舊館（臺大杜聰明教授藥理學原辦公室）", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.520755822013399, 25.041164515896217 ] } },
 { "type": "Feature", "properties": { "Name": "孫文銅像", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510550621444182, 25.043790781613112 ] } },
 { "type": "Feature", "properties": { "Name": "二二八紀念碑", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.515017965730479, 25.041282668805813 ] } },
 { "type": "Feature", "properties": { "Name": "新公園日式庭園", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.514458667924316, 25.042519519800447 ] } },
 { "type": "Feature", "properties": { "Name": "新公園中式庭園", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.515781457519694, 25.042110086225904 ] } },
-{ "type": "Feature", "properties": { "Name": "公園號酸梅湯", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513915212719709, 25.042242975026333 ] } },
 { "type": "Feature", "properties": { "Name": "北白川宮大妃殿下御歌碑", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.520042369361207, 25.027066526791199 ] } },
 { "type": "Feature", "properties": { "Name": "台北植物園（台北苗圃）", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510175076863021, 25.0321683356336 ] } },
 { "type": "Feature", "properties": { "Name": "鐵路地下化舊隧道口", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.529212939775704, 25.046126734719444 ] } },
@@ -608,6 +606,7 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "奇巖洞", "descriptio": null, "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.507549264652255, 25.130823624654241 ] } },
 { "type": "Feature", "properties": { "Name": "星乃湯（逸邨）", "descriptio": null, "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512549035092178, 25.138045808487117 ] } },
 { "type": "Feature", "properties": { "Name": "天狗庵入口階梯及門柱", "descriptio": null, "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.506566601518671, 25.135847420250247 ] } },
-{ "type": "Feature", "properties": { "Name": "雪廬山思源碑", "descriptio": null, "T_Name": "卓蘭鎮", "C_Name": "苗栗縣" }, "geometry": { "type": "Point", "coordinates": [ 120.874122103497129, 24.316481327094227 ] } }
+{ "type": "Feature", "properties": { "Name": "雪廬山思源碑", "descriptio": null, "T_Name": "卓蘭鎮", "C_Name": "苗栗縣" }, "geometry": { "type": "Point", "coordinates": [ 120.874122103497129, 24.316481327094227 ] } },
+{ "type": "Feature", "properties": { "Name": "溫泉路123號", "descriptio": null, "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511879024201775, 25.136869297763397 ] } }
 ]
 }
