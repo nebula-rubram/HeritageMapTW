@@ -119,7 +119,6 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "延平北路二段171號店屋（廬山軒）", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511622199607316, 25.058537801980254 ] } },
 { "type": "Feature", "properties": { "Name": "日新國民小學（原日新公學校）紅樓", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.516664742730299, 25.054364457589827 ] } },
 { "type": "Feature", "properties": { "Name": "有記茶行", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513080673258813, 25.055619996013775 ] } },
-{ "type": "Feature", "properties": { "Name": "李臨秋故居", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.5087173725951, 25.055156385943423 ] } },
 { "type": "Feature", "properties": { "Name": "民生西路 333 號及延平北路二段 111、113、115 號店\n屋", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511675816388603, 25.057045575979327 ] } },
 { "type": "Feature", "properties": { "Name": "波麗路餐廳（本店）", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511949334880015, 25.056817564751029 ] } },
 { "type": "Feature", "properties": { "Name": "涼州街108號店屋", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.50976593620112, 25.060485401517472 ] } },
@@ -1682,7 +1681,7 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "大社張氏中廳", "descriptio": null, "period": "清", "T_Name": "新市區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.317139068174455, 23.092118639572039 ] } },
 { "type": "Feature", "properties": { "Name": "基隆中學校官舍", "descriptio": null, "period": "日", "T_Name": "信義區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.752892098740972, 25.129977863738446 ] } },
 { "type": "Feature", "properties": { "Name": "傅斯年圖書館", "descriptio": null, "period": "民", "T_Name": "南港區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.616609430732026, 25.040337120349189 ] } },
-{ "type": "Feature", "properties": { "Name": "原七星郡役所", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.522406696910181, 25.043472245056726 ] } },
+{ "type": "Feature", "properties": { "Name": "原七星郡役所", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.522487867352538, 25.043511615906539 ] } },
 { "type": "Feature", "properties": { "Name": "延平北路二段6、8號店屋", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511623647771216, 25.054137812975551 ] } },
 { "type": "Feature", "properties": { "Name": "新莊原興直公學校舊校舍", "descriptio": null, "period": "日", "T_Name": "新莊區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.455951561675107, 25.037324374784586 ] } },
 { "type": "Feature", "properties": { "Name": "內湖郭氏墓", "descriptio": null, "period": "日", "T_Name": "內湖區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.562086007737733, 25.089437401860561 ] } },
@@ -1701,7 +1700,7 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "原大日本武德會社宅", "descriptio": null, "period": "日", "T_Name": "佳里區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.176146843650656, 23.16384626275876 ] } },
 { "type": "Feature", "properties": { "Name": "原成功大學校門", "descriptio": null, "period": "民", "T_Name": "東區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.218466631688329, 22.996243809290171 ] } },
 { "type": "Feature", "properties": { "Name": "臺灣銀行高雄分行", "descriptio": null, "period": "民", "T_Name": "前金區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.289551563296797, 22.627799790438807 ] } },
-{ "type": "Feature", "properties": { "Name": "大同區南京西路261號", "descriptio": "含南京西路239巷9號", "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509699686076871, 25.05353200560187 ] } },
+{ "type": "Feature", "properties": { "Name": "大同區南京西路261號", "descriptio": "含南京西路239巷9號", "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509688445077828, 25.053430989660743 ] } },
 { "type": "Feature", "properties": { "Name": "迪化街一段127號店屋", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509798689976691, 25.057608811319422 ] } },
 { "type": "Feature", "properties": { "Name": "迪化街一段349號店屋", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509345813281072, 25.063044733853854 ] } },
 { "type": "Feature", "properties": { "Name": "通霄國小仁愛路日式教職員宿舍", "descriptio": null, "period": "日", "T_Name": "通霄鎮", "C_Name": "苗栗縣" }, "geometry": { "type": "Point", "coordinates": [ 120.681656851405364, 24.490813445086189 ] } },
@@ -1730,6 +1729,10 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "中山女高大禮堂", "descriptio": null, "period": "民", "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.538444978537058, 25.048908356632882 ] } },
 { "type": "Feature", "properties": { "Name": "牯嶺街5巷4號、6號", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.515474710952986, 25.031766814540564 ] } },
 { "type": "Feature", "properties": { "Name": "台大藥理教室", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.520772014063368, 25.041170164557528 ] } },
-{ "type": "Feature", "properties": { "Name": "溫泉路119號（北投海關招待所）", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512292980562037, 25.136662186796194 ] } }
+{ "type": "Feature", "properties": { "Name": "溫泉路119號（北投海關招待所）", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512292980562037, 25.136662186796194 ] } },
+{ "type": "Feature", "properties": { "Name": "忠靈塔（第三屆全省體育會紀念塔）", "descriptio": null, "period": "日", "T_Name": "南區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.20806617939617, 22.978218593358239 ] } },
+{ "type": "Feature", "properties": { "Name": "第三屆全省運動會牌坊", "descriptio": null, "period": "民", "T_Name": "南區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.207097978705576, 22.981223408596019 ] } },
+{ "type": "Feature", "properties": { "Name": "南京西路257號店屋", "descriptio": null, "period": "民", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509834560425716, 25.053409973656073 ] } },
+{ "type": "Feature", "properties": { "Name": "新園街3號", "descriptio": null, "period": "日", "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.552296071796761, 25.150581317638366 ] } }
 ]
 }

@@ -149,6 +149,7 @@ var json__21 = {
 { "type": "Feature", "properties": { "Name": "路思義教堂", "descriptio": null, "period": "民", "T_Name": "西屯區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.600559697555923, 24.178903743843751 ] } },
 { "type": "Feature", "properties": { "Name": "鹿港天后宮", "descriptio": null, "period": "清", "T_Name": "鹿港鎮", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.431209247777005, 24.059446038350668 ] } },
 { "type": "Feature", "properties": { "Name": "觀音白沙岬燈塔", "descriptio": null, "period": "日", "T_Name": "觀音區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.076240492284995, 25.041322882547824 ] } },
-{ "type": "Feature", "properties": { "Name": "專賣局－南門工場", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.515924620080554, 25.033680758435203 ] } }
+{ "type": "Feature", "properties": { "Name": "專賣局－南門工場", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.515924620080554, 25.033680758435203 ] } },
+{ "type": "Feature", "properties": { "Name": "彭佳嶼燈塔", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 122.080270280314537, 25.630012722030539 ] } }
 ]
 }
