@@ -610,6 +610,7 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "溫泉路123號", "descriptio": null, "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511879024201775, 25.136869297763397 ] } },
 { "type": "Feature", "properties": { "Name": "車城庄役場", "descriptio": null, "T_Name": "車城鄉", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.712684635964067, 22.072375909762705 ] } },
 { "type": "Feature", "properties": { "Name": "陳水印宅", "descriptio": null, "T_Name": "前金區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.295483504579195, 22.624443848481988 ] } },
-{ "type": "Feature", "properties": { "Name": "恆春公會堂", "descriptio": null, "T_Name": "恆春鎮", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.745424793525075, 22.002529197682186 ] } }
+{ "type": "Feature", "properties": { "Name": "恆春公會堂", "descriptio": null, "T_Name": "恆春鎮", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.745424793525075, 22.002529197682186 ] } },
+{ "type": "Feature", "properties": { "Name": "警備總部坪林第一總隊職訓中心", "descriptio": null, "T_Name": "坪林區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.700882712057023, 24.930073708945795 ] } }
 ]
 }

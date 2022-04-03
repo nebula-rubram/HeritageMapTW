@@ -1725,14 +1725,17 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "東門國小日式宿舍", "descriptio": null, "period": "日", "T_Name": "桃園區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.315280591311904, 24.994149240256728 ] } },
 { "type": "Feature", "properties": { "Name": "民樂街14號店屋", "descriptio": null, "period": "民", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510789811545436, 25.055915159806133 ] } },
 { "type": "Feature", "properties": { "Name": "原枋隙教會", "descriptio": null, "period": "清", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509738561663909, 25.065058240617315 ] } },
-{ "type": "Feature", "properties": { "Name": "中山女高校門", "descriptio": null, "period": "民", "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.537171962542317, 25.048629189664499 ] } },
-{ "type": "Feature", "properties": { "Name": "中山女高大禮堂", "descriptio": null, "period": "民", "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.538444978537058, 25.048908356632882 ] } },
+{ "type": "Feature", "properties": { "Name": "中山女子高級中學校門、大禮堂－校門", "descriptio": null, "period": "民", "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.537171962542317, 25.048629189664499 ] } },
+{ "type": "Feature", "properties": { "Name": "中山女子高級中學校門、大禮堂－大禮堂", "descriptio": null, "period": "民", "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.538444978537058, 25.048908356632882 ] } },
 { "type": "Feature", "properties": { "Name": "牯嶺街5巷4號、6號", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.515474710952986, 25.031766814540564 ] } },
 { "type": "Feature", "properties": { "Name": "台大藥理教室", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.520772014063368, 25.041170164557528 ] } },
-{ "type": "Feature", "properties": { "Name": "溫泉路119號（北投海關招待所）", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512292980562037, 25.136662186796194 ] } },
+{ "type": "Feature", "properties": { "Name": "北投育成中心(溫泉路119號)（北投海關招待所）", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512292980562037, 25.136662186796194 ] } },
 { "type": "Feature", "properties": { "Name": "忠靈塔（第三屆全省體育會紀念塔）", "descriptio": null, "period": "日", "T_Name": "南區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.20806617939617, 22.978218593358239 ] } },
 { "type": "Feature", "properties": { "Name": "第三屆全省運動會牌坊", "descriptio": null, "period": "民", "T_Name": "南區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.207097978705576, 22.981223408596019 ] } },
 { "type": "Feature", "properties": { "Name": "南京西路257號店屋", "descriptio": null, "period": "民", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509834560425716, 25.053409973656073 ] } },
-{ "type": "Feature", "properties": { "Name": "新園街3號", "descriptio": null, "period": "日", "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.552296071796761, 25.150581317638366 ] } }
+{ "type": "Feature", "properties": { "Name": "新園街3號", "descriptio": null, "period": "日", "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.552296071796761, 25.150581317638366 ] } },
+{ "type": "Feature", "properties": { "Name": "陳坑陳與秀墓", "descriptio": null, "period": "古", "T_Name": "金湖鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.400454472368651, 24.442039640420006 ] } },
+{ "type": "Feature", "properties": { "Name": "草鞋墩雅舍", "descriptio": null, "period": "日", "T_Name": "草屯鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.688939848414307, 23.97964317324832 ] } },
+{ "type": "Feature", "properties": { "Name": "艋舺集義宮", "descriptio": null, "period": "民", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.501329209870008, 25.034908741404962 ] } }
 ]
 }
