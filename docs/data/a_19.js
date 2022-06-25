@@ -1735,6 +1735,11 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "新園街3號", "descriptio": null, "period": "日", "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.552296071796761, 25.150581317638363 ] } },
 { "type": "Feature", "properties": { "Name": "陳坑陳與秀墓", "descriptio": null, "period": "古", "T_Name": "金湖鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.400454472368651, 24.44203964042001 ] } },
 { "type": "Feature", "properties": { "Name": "草鞋墩雅舍", "descriptio": null, "period": "日", "T_Name": "草屯鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.688939848414307, 23.979643173248316 ] } },
-{ "type": "Feature", "properties": { "Name": "艋舺集義宮", "descriptio": null, "period": "民", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.501329209870008, 25.034908741404966 ] } }
+{ "type": "Feature", "properties": { "Name": "艋舺集義宮", "descriptio": null, "period": "民", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.501329209870008, 25.034908741404966 ] } },
+{ "type": "Feature", "properties": { "Name": "原新竹地方法院", "descriptio": null, "period": "日", "T_Name": "東區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.967731064770618, 24.808121018302522 ] } },
+{ "type": "Feature", "properties": { "Name": "原台灣省糧食局頭份糧倉", "descriptio": null, "period": "日", "T_Name": "頭份市", "C_Name": "苗栗縣" }, "geometry": { "type": "Point", "coordinates": [ 120.905911273254986, 24.685293140301219 ] } },
+{ "type": "Feature", "properties": { "Name": "台灣第一商業銀行嘉義分行", "descriptio": null, "period": "民", "T_Name": "東區", "C_Name": "嘉義市" }, "geometry": { "type": "Point", "coordinates": [ 120.450179378967093, 23.479762100953348 ] } },
+{ "type": "Feature", "properties": { "Name": "新生南路三段16巷3、3-1號日式宿舍", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.534091645327209, 25.024634866804522 ] } },
+{ "type": "Feature", "properties": { "Name": "松茂清泉橋", "descriptio": null, "period": "民", "T_Name": "和平區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 121.280358068499282, 24.297177503880008 ] } }
 ]
 }

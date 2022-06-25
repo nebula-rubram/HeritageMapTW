@@ -141,7 +141,7 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "麥帥公路遺跡", "descriptio": null, "T_Name": "七堵區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.680893143923214, 25.088780281235692 ] } },
 { "type": "Feature", "properties": { "Name": "不明 八堵水利單位", "descriptio": null, "T_Name": "暖暖區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.735914475960712, 25.105220801985755 ] } },
 { "type": "Feature", "properties": { "Name": "鐵路八堵橋", "descriptio": null, "T_Name": "暖暖區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.732782326148595, 25.11034772744307 ] } },
-{ "type": "Feature", "properties": { "Name": "林開群洋樓", "descriptio": null, "T_Name": "仁愛區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.742102100316202, 25.130036472862162 ] } },
+{ "type": "Feature", "properties": { "Name": "林開郡洋樓", "descriptio": null, "T_Name": "仁愛區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.742102100316202, 25.130036472862162 ] } },
 { "type": "Feature", "properties": { "Name": "軍人軍屬火葬場之碑、近衛師團戰死者之墓", "descriptio": null, "T_Name": "仁愛區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.741298306341406, 25.123074563168945 ] } },
 { "type": "Feature", "properties": { "Name": "招魂碑、招魂碑移建記", "descriptio": null, "T_Name": "仁愛區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.741122843673296, 25.123576772364441 ] } },
 { "type": "Feature", "properties": { "Name": "陸軍步兵少尉正八位松田篤三之墓", "descriptio": null, "T_Name": "仁愛區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.739480848099504, 25.12410787159768 ] } },

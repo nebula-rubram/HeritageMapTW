@@ -11,8 +11,8 @@
         <link rel="stylesheet" href="css/leaflet-control-geocoder.Geocoder.css">
         <style>
         #map {
-            width: 925px;
-            height: 640px;
+            width: 1200px;
+            height: 808px;
         }
         </style>
         <title>臺灣自然與文化資產（及潛力點）地圖</title>
@@ -60,7 +60,7 @@
         }
         var map = L.map('map', {
             zoomControl:true, maxZoom:28, minZoom:1
-        }).fitBounds([[19.354417176150232,113.73160966480471],[27.47138073435229,126.645367532355]]);
+        }).fitBounds([[19.34808374128368,113.55596762208303],[27.47134271624267,126.82170430848291]]);
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
