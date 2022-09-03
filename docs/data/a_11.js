@@ -6,7 +6,7 @@ var json__11 = {
 { "type": "Feature", "properties": { "Name": "土地公山遺址", "descriptio": null, "T_Name": "土城區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.434138414478795, 24.969469510965528 ] } },
 { "type": "Feature", "properties": { "Name": "狗啼山遺址", "descriptio": null, "T_Name": "樹林區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.415667323467702, 24.990904690291362 ] } },
 { "type": "Feature", "properties": { "Name": "斬龍山考古遺址", "descriptio": null, "T_Name": "土城區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.449018608559413, 24.977914176771506 ] } },
-{ "type": "Feature", "properties": { "Name": "大園尖山遺址", "descriptio": null, "T_Name": "大園區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.202565584331694, 25.060593963854583 ] } },
+{ "type": "Feature", "properties": { "Name": "大園尖山考古遺址", "descriptio": null, "T_Name": "大園區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.202565584331694, 25.060593963854583 ] } },
 { "type": "Feature", "properties": { "Name": "公埔遺址", "descriptio": null, "T_Name": "富里鄉", "C_Name": "花蓮縣" }, "geometry": { "type": "Point", "coordinates": [ 121.260921062668018, 23.185653800734094 ] } },
 { "type": "Feature", "properties": { "Name": "富世遺址", "descriptio": null, "T_Name": "秀林鄉", "C_Name": "花蓮縣" }, "geometry": { "type": "Point", "coordinates": [ 121.620589961369603, 24.154266732426695 ] } },
 { "type": "Feature", "properties": { "Name": "Satokoay（舞鶴）遺址", "descriptio": null, "T_Name": "瑞穗鄉", "C_Name": "花蓮縣" }, "geometry": { "type": "Point", "coordinates": [ 121.359230386581814, 23.470511076837862 ] } },

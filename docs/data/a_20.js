@@ -611,7 +611,6 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "鹿港牛墟頭太岳之胤許宅", "descriptio": null, "period": "清", "T_Name": "鹿港鎮", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.435809298330696, 24.055591802446752 ] } },
 { "type": "Feature", "properties": { "Name": "鹿港公會堂", "descriptio": null, "period": "日", "T_Name": "鹿港鎮", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.431761010016004, 24.057549967006263 ] } },
 { "type": "Feature", "properties": { "Name": "彰化市武德殿", "descriptio": null, "period": "日", "T_Name": "彰化市", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.546016392040016, 24.077169836340268 ] } },
-{ "type": "Feature", "properties": { "Name": "彰化扇形車庫", "descriptio": null, "period": "日", "T_Name": "彰化市", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.540141037728503, 24.085882892412769 ] } },
 { "type": "Feature", "properties": { "Name": "彰化鐵路醫院(原高賓閣)", "descriptio": null, "period": "日", "T_Name": "彰化市", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.538571059609197, 24.079624243514544 ] } },
 { "type": "Feature", "properties": { "Name": "彰化集樂軒", "descriptio": null, "period": "日", "T_Name": "彰化市", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.542272584897503, 24.075926897678332 ] } },
 { "type": "Feature", "properties": { "Name": "彰化振豐源商行", "descriptio": "彰化縣有形文化資產審議委員會蕭文杰說，經審議委員實地勘察及審議研究報告，認定振豐源商行是無論是建築，以及代表煙草等產業經濟史，也是彰化城市的記憶歷史，這棟建築不只代表吳��", "period": "日", "T_Name": "彰化市", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.540270520954408, 24.081403792044703 ] } },
@@ -953,6 +952,11 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "臨沂街71巷33號日式住宅", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.530368403175004, 25.035590982000464 ] } },
 { "type": "Feature", "properties": { "Name": "八芝蘭番仔井", "descriptio": "井口、水塘及公園內之水圳，維護範圍為天和公園", "period": "古", "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.534211945233196, 25.120155529443149 ] } },
 { "type": "Feature", "properties": { "Name": "兩江醫院", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510040075823028, 25.054435433926251 ] } },
-{ "type": "Feature", "properties": { "Name": "東海大學原藝術中心", "descriptio": null, "period": "民", "T_Name": "西屯區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.600134989405603, 24.178010628334174 ] } }
+{ "type": "Feature", "properties": { "Name": "東海大學原藝術中心", "descriptio": null, "period": "民", "T_Name": "西屯區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.600134989405603, 24.178010628334174 ] } },
+{ "type": "Feature", "properties": { "Name": "范朝燈故居", "descriptio": null, "period": "日", "T_Name": "關西鎮", "C_Name": "新竹縣" }, "geometry": { "type": "Point", "coordinates": [ 121.129591640860397, 24.804831173029555 ] } },
+{ "type": "Feature", "properties": { "Name": "衡陽路4號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513862196650436, 25.042231929534314 ] } },
+{ "type": "Feature", "properties": { "Name": "懷寧街96號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513923140789501, 25.042150914776283 ] } },
+{ "type": "Feature", "properties": { "Name": "懷寧街98號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513927795061988, 25.042106823785332 ] } },
+{ "type": "Feature", "properties": { "Name": "中壢庄內厝子黃宅明德居", "descriptio": null, "period": "日", "T_Name": "中壢區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.182059088542161, 24.984687179800478 ] } }
 ]
 }

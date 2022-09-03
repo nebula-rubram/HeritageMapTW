@@ -86,9 +86,9 @@ var json__21 = {
 { "type": "Feature", "properties": { "Name": "文臺寶塔", "descriptio": null, "period": "清", "T_Name": "金城鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.306013014810375, 24.398770044865149 ] } },
 { "type": "Feature", "properties": { "Name": "東湧燈塔", "descriptio": null, "period": "清", "T_Name": "東引鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 120.510328457111385, 26.36562982056703 ] } },
 { "type": "Feature", "properties": { "Name": "東犬燈塔", "descriptio": null, "period": "清", "T_Name": "莒光鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.985537465930037, 25.967292977177198 ] } },
-{ "type": "Feature", "properties": { "Name": "霧峰林家頂厝", "descriptio": null, "period": "清", "T_Name": "霧峰區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.700781663076299, 24.064388585869718 ] } },
-{ "type": "Feature", "properties": { "Name": "霧峰林家下厝", "descriptio": null, "period": "清", "T_Name": "霧峰區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.701287503208306, 24.062855394862737 ] } },
-{ "type": "Feature", "properties": { "Name": "霧峰林家萊園", "descriptio": null, "period": "清", "T_Name": "霧峰區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.701594332106112, 24.064451546853977 ] } },
+{ "type": "Feature", "properties": { "Name": "霧峰林家－頂厝", "descriptio": null, "period": "清", "T_Name": "霧峰區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.700563564840664, 24.06429436607085 ] } },
+{ "type": "Feature", "properties": { "Name": "霧峰林家－下厝", "descriptio": null, "period": "清", "T_Name": "霧峰區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.700855409594709, 24.062744678215747 ] } },
+{ "type": "Feature", "properties": { "Name": "霧峰林家－萊園", "descriptio": null, "period": "日", "T_Name": "霧峰區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.703138393957417, 24.061236675906279 ] } },
 { "type": "Feature", "properties": { "Name": "台中州廳", "descriptio": null, "period": "日", "T_Name": "西區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.678472945716607, 24.138534757109586 ] } },
 { "type": "Feature", "properties": { "Name": "台中火車站", "descriptio": null, "period": "日", "T_Name": "中區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.685106445096906, 24.136863357532125 ] } },
 { "type": "Feature", "properties": { "Name": "彰化孔子廟", "descriptio": null, "period": "清", "T_Name": "彰化市", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.543344999546207, 24.079007000189801 ] } },
@@ -150,6 +150,8 @@ var json__21 = {
 { "type": "Feature", "properties": { "Name": "鹿港天后宮", "descriptio": null, "period": "清", "T_Name": "鹿港鎮", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.431209247777005, 24.059446038350664 ] } },
 { "type": "Feature", "properties": { "Name": "觀音白沙岬燈塔", "descriptio": null, "period": "日", "T_Name": "觀音區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.076240492284995, 25.041322882547824 ] } },
 { "type": "Feature", "properties": { "Name": "專賣局－南門工場", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.515924620080554, 25.033680758435199 ] } },
-{ "type": "Feature", "properties": { "Name": "彭佳嶼燈塔", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 122.080270280314537, 25.630012722030536 ] } }
+{ "type": "Feature", "properties": { "Name": "彭佳嶼燈塔", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 122.080270280314537, 25.630012722030536 ] } },
+{ "type": "Feature", "properties": { "Name": "霧峰林家－頤圃", "descriptio": null, "period": "日", "T_Name": "霧峰區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.700826495642559, 24.063797933350461 ] } },
+{ "type": "Feature", "properties": { "Name": "彰化扇形車庫", "descriptio": null, "period": "日", "T_Name": "彰化市", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.540141037728503, 24.085882892412769 ] } }
 ]
 }

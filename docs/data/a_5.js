@@ -164,7 +164,6 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "空軍工程聯隊禮堂", "descriptio": null, "T_Name": "東區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.976840671591404, 24.800752829001226 ] } },
 { "type": "Feature", "properties": { "Name": "新竹動物園標本室", "descriptio": null, "T_Name": "東區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.979933704534105, 24.801124745431007 ] } },
 { "type": "Feature", "properties": { "Name": "新竹動物園-管理室、圓形涼亭、夜行館、大圓鳥籠、六角籠、洗滌台、防空洞", "descriptio": null, "T_Name": "東區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.97926466006021, 24.800872509172759 ] } },
-{ "type": "Feature", "properties": { "Name": "新竹市警察局", "descriptio": null, "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.968513008312812, 24.806270125100749 ] } },
 { "type": "Feature", "properties": { "Name": "英明街日式宿舍", "descriptio": null, "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.96702691586411, 24.806176428601717 ] } },
 { "type": "Feature", "properties": { "Name": "新泰春商店", "descriptio": null, "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.9660004895631, 24.80660397083615 ] } },
 { "type": "Feature", "properties": { "Name": "(日式宿舍)新竹州州立農事試驗場", "descriptio": null, "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.969831020448495, 24.817740213864514 ] } },
@@ -611,6 +610,8 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "車城庄役場", "descriptio": null, "T_Name": "車城鄉", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.712684635964067, 22.072375909762705 ] } },
 { "type": "Feature", "properties": { "Name": "陳水印宅", "descriptio": null, "T_Name": "前金區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.295483504579195, 22.624443848481992 ] } },
 { "type": "Feature", "properties": { "Name": "恆春公會堂", "descriptio": null, "T_Name": "恆春鎮", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.745424793525075, 22.002529197682183 ] } },
-{ "type": "Feature", "properties": { "Name": "警備總部坪林第一總隊職訓中心", "descriptio": null, "T_Name": "坪林區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.700882712057023, 24.930073708945798 ] } }
+{ "type": "Feature", "properties": { "Name": "警備總部坪林第一總隊職訓中心", "descriptio": null, "T_Name": "坪林區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.700882712057023, 24.930073708945798 ] } },
+{ "type": "Feature", "properties": { "Name": "宮前町砌石大溝", "descriptio": null, "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.52098906514945, 25.057114663279467 ] } },
+{ "type": "Feature", "properties": { "Name": "櫻橋橋台", "descriptio": null, "T_Name": "中區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.683938151011162, 24.138632654853755 ] } }
 ]
 }
