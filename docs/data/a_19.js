@@ -1754,6 +1754,8 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "迪化街一段87號店屋", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509968863072928, 25.056403823526221 ] } },
 { "type": "Feature", "properties": { "Name": "竹子湖蓬萊米原種田事務所、竹子山莊、氣象觀測臺等建築", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.539376051059932, 25.168323579650909 ] } },
 { "type": "Feature", "properties": { "Name": "新生南路一段160巷16號日式宿舍", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.531077967115138, 25.034470047666044 ] } },
-{ "type": "Feature", "properties": { "Name": "新生南路一段170巷19號日式宿舍", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.530679035358446, 25.034324556549151 ] } }
+{ "type": "Feature", "properties": { "Name": "新生南路一段170巷19號日式宿舍", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.530679035358446, 25.034324556549151 ] } },
+{ "type": "Feature", "properties": { "Name": "迪化街二段374號", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512651694870314, 25.073203113043647 ] } },
+{ "type": "Feature", "properties": { "Name": "和平東路2段18巷10號", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.53578815459278, 25.024839009234643 ] } }
 ]
 }

@@ -612,6 +612,8 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "恆春公會堂", "descriptio": null, "T_Name": "恆春鎮", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.745424793525075, 22.002529197682183 ] } },
 { "type": "Feature", "properties": { "Name": "警備總部坪林第一總隊職訓中心", "descriptio": null, "T_Name": "坪林區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.700882712057023, 24.930073708945798 ] } },
 { "type": "Feature", "properties": { "Name": "宮前町砌石大溝", "descriptio": null, "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.52098906514945, 25.057114663279467 ] } },
-{ "type": "Feature", "properties": { "Name": "櫻橋橋台", "descriptio": null, "T_Name": "中區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.683938151011162, 24.138632654853755 ] } }
+{ "type": "Feature", "properties": { "Name": "櫻橋橋台", "descriptio": null, "T_Name": "中區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.683938151011162, 24.138632654853755 ] } },
+{ "type": "Feature", "properties": { "Name": "鼓山魚市場", "descriptio": null, "T_Name": "鼓山區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.270125626310815, 22.619326689814407 ] } },
+{ "type": "Feature", "properties": { "Name": "原高雄魚市株式會社事務所", "descriptio": null, "T_Name": "鼓山區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.270365189164266, 22.619595368054078 ] } }
 ]
 }
