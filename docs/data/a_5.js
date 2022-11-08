@@ -239,14 +239,6 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "北白川宮大妃殿下御歌碑", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.520042369361207, 25.027066526791202 ] } },
 { "type": "Feature", "properties": { "Name": "台北植物園（台北苗圃）", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510175076863021, 25.032168335633603 ] } },
 { "type": "Feature", "properties": { "Name": "鐵路地下化舊隧道口", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.529212939775704, 25.046126734719444 ] } },
-{ "type": "Feature", "properties": { "Name": "臺北酒廠清酒工場", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.528919330262411, 25.044120899424193 ] } },
-{ "type": "Feature", "properties": { "Name": "臺北酒廠維修工場", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.528885996142009, 25.044419981025971 ] } },
-{ "type": "Feature", "properties": { "Name": "臺北酒廠鍋爐室", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.528940515914599, 25.044900512598748 ] } },
-{ "type": "Feature", "properties": { "Name": "臺北酒廠蒸餾室", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.528992400350489, 25.044631672739982 ] } },
-{ "type": "Feature", "properties": { "Name": "臺北酒廠再製酒作業場", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.529337408768797, 25.044974388420687 ] } },
-{ "type": "Feature", "properties": { "Name": "臺北酒廠包裝工場", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.529151988622218, 25.045206282204141 ] } },
-{ "type": "Feature", "properties": { "Name": "臺北酒廠消防車庫", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.529897391416995, 25.044369435949399 ] } },
-{ "type": "Feature", "properties": { "Name": "臺北酒廠禮堂", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.529611778657511, 25.044322429704017 ] } },
 { "type": "Feature", "properties": { "Name": "南機場一期整宅", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.506043902745517, 25.028795407722516 ] } },
 { "type": "Feature", "properties": { "Name": "南機場三期整宅", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.504649685461914, 25.029786977689014 ] } },
 { "type": "Feature", "properties": { "Name": "古亭老街", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.521691722072546, 25.026604766545677 ] } },
@@ -614,6 +606,7 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "宮前町砌石大溝", "descriptio": null, "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.52098906514945, 25.057114663279467 ] } },
 { "type": "Feature", "properties": { "Name": "櫻橋橋台", "descriptio": null, "T_Name": "中區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.683938151011162, 24.138632654853755 ] } },
 { "type": "Feature", "properties": { "Name": "鼓山魚市場", "descriptio": null, "T_Name": "鼓山區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.270125626310815, 22.619326689814407 ] } },
-{ "type": "Feature", "properties": { "Name": "原高雄魚市株式會社事務所", "descriptio": null, "T_Name": "鼓山區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.270365189164266, 22.619595368054078 ] } }
+{ "type": "Feature", "properties": { "Name": "原高雄魚市株式會社事務所", "descriptio": null, "T_Name": "鼓山區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.270365189164266, 22.619595368054078 ] } },
+{ "type": "Feature", "properties": { "Name": "鹽埕第一公有零售市場", "descriptio": null, "T_Name": "鹽埕區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.282308190432161, 22.624942400831433 ] } }
 ]
 }

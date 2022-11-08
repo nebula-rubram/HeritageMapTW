@@ -168,8 +168,6 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "臺大醫院舊館西址鍋爐室（含洗衣房及煙囪）", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.518189409150594, 25.043498281026466 ] } },
 { "type": "Feature", "properties": { "Name": "衡陽路54、56、58、60號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511939869126294, 25.042201922256936 ] } },
 { "type": "Feature", "properties": { "Name": "峰圃茶莊", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.5133898539694, 25.045356553237703 ] } },
-{ "type": "Feature", "properties": { "Name": "臺北酒廠四連棟", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.529920067760614, 25.045003140993678 ] } },
-{ "type": "Feature", "properties": { "Name": "臺北酒廠米酒作業場", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.529537214431215, 25.044672569667966 ] } },
 { "type": "Feature", "properties": { "Name": "原辰馬商會本町店鋪（彰化銀行臺北分行）", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513406578231113, 25.045579883295662 ] } },
 { "type": "Feature", "properties": { "Name": "國立中央圖書館舊址", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512079566676704, 25.032426047314431 ] } },
 { "type": "Feature", "properties": { "Name": "菊元百貨店", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511319770773781, 25.042448302828337 ] } },
@@ -1756,6 +1754,7 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "新生南路一段160巷16號日式宿舍", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.531077967115138, 25.034470047666044 ] } },
 { "type": "Feature", "properties": { "Name": "新生南路一段170巷19號日式宿舍", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.530679035358446, 25.034324556549151 ] } },
 { "type": "Feature", "properties": { "Name": "迪化街二段374號", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512651694870314, 25.073203113043647 ] } },
-{ "type": "Feature", "properties": { "Name": "和平東路2段18巷10號", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.53578815459278, 25.024839009234643 ] } }
+{ "type": "Feature", "properties": { "Name": "和平東路2段18巷10號", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.53578815459278, 25.024839009234643 ] } },
+{ "type": "Feature", "properties": { "Name": "原馬場町區會講習堂與事務所", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510638715482898, 25.026419649236594 ] } }
 ]
 }
