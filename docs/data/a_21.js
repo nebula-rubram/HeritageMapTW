@@ -56,7 +56,7 @@ var json__21 = {
 { "type": "Feature", "properties": { "Name": "理學堂大書院", "descriptio": null, "period": "清", "T_Name": "淡水區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.434446584695266, 25.175962523228261 ] } },
 { "type": "Feature", "properties": { "Name": "滬尾砲臺", "descriptio": null, "period": "清", "T_Name": "淡水區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.42934101933497, 25.179171773763226 ] } },
 { "type": "Feature", "properties": { "Name": "二沙灣砲台", "descriptio": null, "period": "清", "T_Name": "中正區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.756625851063305, 25.139622303204177 ] } },
-{ "type": "Feature", "properties": { "Name": "大武崙砲台", "descriptio": null, "period": "日", "T_Name": "安樂區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.707606704789228, 25.15937676843804 ] } },
+{ "type": "Feature", "properties": { "Name": "大武崙砲台", "descriptio": null, "period": "日", "T_Name": "安樂區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.708399163476514, 25.158808721691639 ] } },
 { "type": "Feature", "properties": { "Name": "槓子寮砲台", "descriptio": null, "period": "日", "T_Name": "信義區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.780580369319068, 25.144602926290997 ] } },
 { "type": "Feature", "properties": { "Name": "大溪李騰芳古宅", "descriptio": null, "period": "清", "T_Name": "大溪區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.295141287127819, 24.89070144677412 ] } },
 { "type": "Feature", "properties": { "Name": "竹塹城迎曦門", "descriptio": null, "period": "清", "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.970279009157593, 24.804187016654382 ] } },
@@ -117,7 +117,7 @@ var json__21 = {
 { "type": "Feature", "properties": { "Name": "祀典武廟", "descriptio": null, "period": "古", "T_Name": "中西區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.202197487683094, 22.996540853538207 ] } },
 { "type": "Feature", "properties": { "Name": "開元寺", "descriptio": null, "period": "清", "T_Name": "北區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.222121466981903, 23.011190654675953 ] } },
 { "type": "Feature", "properties": { "Name": "臺南三山國王廟", "descriptio": null, "period": "清", "T_Name": "北區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.202968119453701, 23.001386676490114 ] } },
-{ "type": "Feature", "properties": { "Name": "兌悅門", "descriptio": null, "period": "清", "T_Name": "中西區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.194392549508294, 23.000748758333437 ] } },
+{ "type": "Feature", "properties": { "Name": "臺灣府城城門及城垣殘蹟－兌悅門", "descriptio": null, "period": "清", "T_Name": "中西區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.194392549508294, 23.000748758333437 ] } },
 { "type": "Feature", "properties": { "Name": "四草砲臺（鎮海城）", "descriptio": null, "period": "清", "T_Name": "安南區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.13518899999589, 23.018977000175433 ] } },
 { "type": "Feature", "properties": { "Name": "億載金城\n（二鯤鯓砲臺）", "descriptio": null, "period": "清", "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.158922980577799, 22.987705640714424 ] } },
 { "type": "Feature", "properties": { "Name": "原台南測候所", "descriptio": null, "period": "日", "T_Name": "中西區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.205029261821394, 22.993652535417084 ] } },
@@ -152,6 +152,12 @@ var json__21 = {
 { "type": "Feature", "properties": { "Name": "專賣局－南門工場", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.515924620080554, 25.033680758435199 ] } },
 { "type": "Feature", "properties": { "Name": "彭佳嶼燈塔", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 122.080270280314537, 25.630012722030536 ] } },
 { "type": "Feature", "properties": { "Name": "霧峰林家－頤圃", "descriptio": null, "period": "日", "T_Name": "霧峰區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.700826495642559, 24.063797933350461 ] } },
-{ "type": "Feature", "properties": { "Name": "彰化扇形車庫", "descriptio": null, "period": "日", "T_Name": "彰化市", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.540141037728503, 24.085882892412769 ] } }
+{ "type": "Feature", "properties": { "Name": "彰化扇形車庫", "descriptio": null, "period": "日", "T_Name": "彰化市", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.540141037728503, 24.085882892412769 ] } },
+{ "type": "Feature", "properties": { "Name": "臺灣府城城門及城垣殘蹟－大南門", "descriptio": null, "period": "清", "T_Name": "中西區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.203520481274793, 22.986839156285033 ] } },
+{ "type": "Feature", "properties": { "Name": "臺灣府城城門及城垣殘蹟－小東門段城垣", "descriptio": null, "period": "清", "T_Name": "東區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.218197379656019, 22.999479460949335 ] } },
+{ "type": "Feature", "properties": { "Name": "臺灣府城城門及城垣殘蹟－巽方砲臺（巽方靖鎮）", "descriptio": null, "period": "清", "T_Name": "東區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.219562496183812, 22.9842810036549 ] } },
+{ "type": "Feature", "properties": { "Name": "臺灣府城城門及城垣殘蹟－大東門", "descriptio": null, "period": "清", "T_Name": "東區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.217374137284807, 22.987239542735274 ] } },
+{ "type": "Feature", "properties": { "Name": "臺灣府城城門及城垣殘蹟－東門段城垣", "descriptio": null, "period": "清", "T_Name": "東區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.214820693424997, 22.986932456010944 ] } },
+{ "type": "Feature", "properties": { "Name": "臺灣府城城門及城垣殘蹟－南門段城垣", "descriptio": null, "period": "清", "T_Name": "中西區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.206328128105, 22.985629040178019 ] } }
 ]
 }

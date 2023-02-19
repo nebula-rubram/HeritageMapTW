@@ -32,6 +32,6 @@ var json__9 = {
 { "type": "Feature", "properties": { "Name": "九九峰自然保留區", "descriptio": null, "T_Name": "草屯鎮", "C_Name": "南投縣", "Level": "國定" }, "geometry": { "type": "Point", "coordinates": [ 120.791027294297393, 24.01374194115964 ] } },
 { "type": "Feature", "properties": { "Name": "坪林台灣油杉自然保留區-3", "descriptio": null, "T_Name": "坪林區", "C_Name": "新北市", "Level": "國定" }, "geometry": { "type": "Point", "coordinates": [ 121.685554922475347, 24.912154534146804 ] } },
 { "type": "Feature", "properties": { "Name": "坪林台灣油杉自然保留區-4", "descriptio": null, "T_Name": "坪林區", "C_Name": "新北市", "Level": "國定" }, "geometry": { "type": "Point", "coordinates": [ 121.704104519550995, 24.891013449244397 ] } },
-{ "type": "Feature", "properties": { "Name": "龍崎惡地", "descriptio": null, "T_Name": "龍崎區", "C_Name": "臺南市", "Level": "縣市定" }, "geometry": { "type": "Point", "coordinates": [ 120.377154896620283, 22.919955314906559 ] } }
+{ "type": "Feature", "properties": { "Name": "龍崎惡地", "descriptio": null, "T_Name": "龍崎區", "C_Name": "臺南市", "Level": "縣市定" }, "geometry": { "type": "Point", "coordinates": [ 120.412991708901075, 22.919019491964686 ] } }
 ]
 }

@@ -30,6 +30,6 @@ var json__8 = {
 { "type": "Feature", "properties": { "Name": "草嶺地質公園－同心瀑布、連珠池", "descriptio": null, "T_Name": "古坑鄉", "C_Name": "雲林縣", "COUNT": null }, "geometry": { "type": "Point", "coordinates": [ 120.684155389669485, 23.606042342090618 ] } },
 { "type": "Feature", "properties": { "Name": "草嶺地質公園－萬年峽谷", "descriptio": null, "T_Name": "古坑鄉", "C_Name": "雲林縣", "COUNT": null }, "geometry": { "type": "Point", "coordinates": [ 120.666158849440535, 23.60149219643181 ] } },
 { "type": "Feature", "properties": { "Name": "草嶺地質公園－草嶺貝化石", "descriptio": null, "T_Name": "古坑鄉", "C_Name": "雲林縣", "COUNT": null }, "geometry": { "type": "Point", "coordinates": [ 120.658609280410246, 23.598676411225917 ] } },
-{ "type": "Feature", "properties": { "Name": "龍崎惡地", "descriptio": null, "T_Name": "龍崎區", "C_Name": "臺南市", "COUNT": null }, "geometry": { "type": "Point", "coordinates": [ 120.376161704986487, 22.919880622464994 ] } }
+{ "type": "Feature", "properties": { "Name": "龍崎惡地", "descriptio": null, "T_Name": "龍崎區", "C_Name": "臺南市", "COUNT": null }, "geometry": { "type": "Point", "coordinates": [ 120.412923388194486, 22.919082275895164 ] } }
 ]
 }
