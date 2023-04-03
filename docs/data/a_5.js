@@ -619,6 +619,11 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "河神的丸子", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.514543885468299, 25.024249672298055 ] } },
 { "type": "Feature", "properties": { "Name": "臺灣府城小西門(移築)", "descriptio": null, "T_Name": "東區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.218169228965493, 22.999642895350341 ] } },
 { "type": "Feature", "properties": { "Name": "立長宮(阿立祖公廨)", "descriptio": null, "T_Name": "佳里區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.16266262931839, 23.172891946072191 ] } },
-{ "type": "Feature", "properties": { "Name": "飛番程天與墓碑", "descriptio": null, "T_Name": "佳里區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.166230372064788, 23.172998621218579 ] } }
+{ "type": "Feature", "properties": { "Name": "飛番程天與墓碑", "descriptio": null, "T_Name": "佳里區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.166230372064788, 23.172998621218579 ] } },
+{ "type": "Feature", "properties": { "Name": "安平原臺鹽日式宿舍", "descriptio": null, "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.159173199257211, 23.002114448921731 ] } },
+{ "type": "Feature", "properties": { "Name": "安平古堡史蹟紀念館與瞭望台", "descriptio": null, "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.160837548253113, 23.001608942009863 ] } },
+{ "type": "Feature", "properties": { "Name": "安平古堡碑（原濱田彌兵衛紀念碑）", "descriptio": null, "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.160546840210387, 23.00156892253408 ] } },
+{ "type": "Feature", "properties": { "Name": "安平稅務司公館", "descriptio": null, "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.160127185154636, 23.001320432816406 ] } },
+{ "type": "Feature", "properties": { "Name": "義一路星巴克", "descriptio": null, "T_Name": "中正區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.744638670382741, 25.131145857703604 ] } }
 ]
 }

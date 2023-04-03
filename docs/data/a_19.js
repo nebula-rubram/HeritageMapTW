@@ -344,10 +344,10 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "基隆火車站南號誌樓轉轍站", "descriptio": null, "period": "日", "T_Name": "中山區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.737411196074603, 25.129846274979453 ] } },
 { "type": "Feature", "properties": { "Name": "七堵火車(前)站", "descriptio": null, "period": "日", "T_Name": "七堵區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.716075456663802, 25.097138256871691 ] } },
 { "type": "Feature", "properties": { "Name": "靈泉三塔", "descriptio": null, "period": "日", "T_Name": "信義區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.763040743800701, 25.11562624638708 ] } },
-{ "type": "Feature", "properties": { "Name": "建港紀念碑（基隆築港殉職者紀念碑）", "descriptio": null, "period": "日", "T_Name": "中山區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.745862575437314, 25.14207440507629 ] } },
-{ "type": "Feature", "properties": { "Name": "高遠新村港務局局長官舍（築港出張所仙洞町官舍）", "descriptio": null, "period": "日", "T_Name": "中山區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.744930033957289, 25.141933375638946 ] } },
+{ "type": "Feature", "properties": { "Name": "建港紀念碑（基隆築港殉職者紀念碑）", "descriptio": null, "period": "日", "T_Name": "中山區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.745785351571882, 25.142192662449247 ] } },
+{ "type": "Feature", "properties": { "Name": "高遠新村港務局局長官舍（築港出張所仙洞町官舍）", "descriptio": null, "period": "日", "T_Name": "中山區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.744838676461114, 25.14223733090023 ] } },
 { "type": "Feature", "properties": { "Name": "基隆市政府大樓", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.744547403709504, 25.131569949895511 ] } },
-{ "type": "Feature", "properties": { "Name": "許梓桑古厝", "descriptio": null, "period": "日", "T_Name": "仁愛區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.743915480181698, 25.127273097445826 ] } },
+{ "type": "Feature", "properties": { "Name": "許梓桑古厝", "descriptio": null, "period": "日", "T_Name": "仁愛區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.74421634166039, 25.127372463148003 ] } },
 { "type": "Feature", "properties": { "Name": "海港大樓", "descriptio": null, "period": "日", "T_Name": "仁愛區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.740660667004605, 25.133093363307914 ] } },
 { "type": "Feature", "properties": { "Name": "漁會正濱大樓", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.765459826911112, 25.150713683088458 ] } },
 { "type": "Feature", "properties": { "Name": "北白川宮紀念碑（北白川宮能久親王紀念碑）", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.753234450105893, 25.138835547709071 ] } },
@@ -1764,6 +1764,8 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "青田街6巷3號日式宿舍", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.531670026700084, 25.028235060595637 ] } },
 { "type": "Feature", "properties": { "Name": "青田街8巷12號日式宿舍", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.530987987438934, 25.02745764744764 ] } },
 { "type": "Feature", "properties": { "Name": "平鎮千頃第", "descriptio": null, "period": "日", "T_Name": "平鎮區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.19602419358975, 24.919795333159382 ] } },
-{ "type": "Feature", "properties": { "Name": "芳苑洪家古厝", "descriptio": null, "period": "日", "T_Name": "芳苑鄉", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.343697071430128, 23.919767970056899 ] } }
+{ "type": "Feature", "properties": { "Name": "芳苑洪家古厝", "descriptio": null, "period": "日", "T_Name": "芳苑鄉", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.343697071430128, 23.919767970056899 ] } },
+{ "type": "Feature", "properties": { "Name": "迪化街一段148號店屋", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509669383691161, 25.057623923788988 ] } },
+{ "type": "Feature", "properties": { "Name": "黃成金墓園", "descriptio": null, "period": "民", "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.549708819279886, 25.137824648077817 ] } }
 ]
 }
