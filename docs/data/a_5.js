@@ -624,6 +624,8 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "安平古堡史蹟紀念館與瞭望台", "descriptio": null, "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.160837548253113, 23.001608942009863 ] } },
 { "type": "Feature", "properties": { "Name": "安平古堡碑（原濱田彌兵衛紀念碑）", "descriptio": null, "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.160546840210387, 23.00156892253408 ] } },
 { "type": "Feature", "properties": { "Name": "安平稅務司公館", "descriptio": null, "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.160127185154636, 23.001320432816406 ] } },
-{ "type": "Feature", "properties": { "Name": "義一路星巴克", "descriptio": null, "T_Name": "中正區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.744638670382741, 25.131145857703604 ] } }
+{ "type": "Feature", "properties": { "Name": "義一路星巴克", "descriptio": null, "T_Name": "中正區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.744638670382741, 25.131145857703604 ] } },
+{ "type": "Feature", "properties": { "Name": "汕頭街派出所紀念碑", "descriptio": null, "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.504154804205115, 25.032491801460612 ] } },
+{ "type": "Feature", "properties": { "Name": "日善公園防空洞", "descriptio": null, "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.496758003399307, 25.026403541590874 ] } }
 ]
 }

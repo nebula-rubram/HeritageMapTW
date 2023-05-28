@@ -1766,6 +1766,14 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "平鎮千頃第", "descriptio": null, "period": "日", "T_Name": "平鎮區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.19602419358975, 24.919795333159382 ] } },
 { "type": "Feature", "properties": { "Name": "芳苑洪家古厝", "descriptio": null, "period": "日", "T_Name": "芳苑鄉", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.343697071430128, 23.919767970056899 ] } },
 { "type": "Feature", "properties": { "Name": "迪化街一段148號店屋", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509669383691161, 25.057623923788988 ] } },
-{ "type": "Feature", "properties": { "Name": "黃成金墓園", "descriptio": null, "period": "民", "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.549708819279886, 25.137824648077817 ] } }
+{ "type": "Feature", "properties": { "Name": "黃成金墓園", "descriptio": null, "period": "民", "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.549708819279886, 25.137824648077817 ] } },
+{ "type": "Feature", "properties": { "Name": "淡水渡船頭燈杆", "descriptio": null, "period": "民", "T_Name": "淡水區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.438914631628904, 25.170020761176492 ] } },
+{ "type": "Feature", "properties": { "Name": "臨沂街65巷11號日式住宅", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.529734182199661, 25.035794544515497 ] } },
+{ "type": "Feature", "properties": { "Name": "銅鑼惇敘堂", "descriptio": null, "period": "日", "T_Name": "銅鑼鄉", "C_Name": "苗栗縣" }, "geometry": { "type": "Point", "coordinates": [ 120.776250275224342, 24.499824484645099 ] } },
+{ "type": "Feature", "properties": { "Name": "公館西河堂林屋下公廳", "descriptio": null, "period": "清", "T_Name": "公館鄉", "C_Name": "苗栗縣" }, "geometry": { "type": "Point", "coordinates": [ 120.834107252035679, 24.496179638194711 ] } },
+{ "type": "Feature", "properties": { "Name": "溫州街22巷6、8號", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.532412993281724, 25.023571747288177 ] } },
+{ "type": "Feature", "properties": { "Name": "陽明醫院舊址牆面", "descriptio": null, "period": "民", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.54902259727568, 25.150223531332241 ] } },
+{ "type": "Feature", "properties": { "Name": "南投林區管理處水里工作站所轄木造辦公廳舍", "descriptio": null, "period": "日", "T_Name": "水里鄉", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.856404071060069, 23.812631928680947 ] } },
+{ "type": "Feature", "properties": { "Name": "原南國運送店", "descriptio": null, "period": "日", "T_Name": "西區", "C_Name": "嘉義市" }, "geometry": { "type": "Point", "coordinates": [ 120.443583058212781, 23.483090112602508 ] } }
 ]
 }
