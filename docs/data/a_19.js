@@ -305,7 +305,6 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "鶯歌區『鶯歌合興窯煙囪』", "descriptio": null, "period": "日", "T_Name": "鶯歌區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.359081983798191, 24.95614161693025 ] } },
 { "type": "Feature", "properties": { "Name": "水湳洞選煉廠", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.864489343185198, 25.119681455734064 ] } },
 { "type": "Feature", "properties": { "Name": "水湳洞本山六坑口及索道系統", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.862379189149721, 25.114142591258457 ] } },
-{ "type": "Feature", "properties": { "Name": "瑞芳瑞三礦業", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.828012586566189, 25.085310604718579 ] } },
 { "type": "Feature", "properties": { "Name": "瑞芳翁山英故居", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.843572732385894, 25.108115288198174 ] } },
 { "type": "Feature", "properties": { "Name": "舊宜蘭線猴硐隧道群", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.829754642716495, 25.10284312592719 ] } },
 { "type": "Feature", "properties": { "Name": "猴硐神社鳥居", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.829401569507297, 25.087961802311906 ] } },
@@ -1774,6 +1773,11 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "溫州街22巷6、8號", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.532412993281724, 25.023571747288177 ] } },
 { "type": "Feature", "properties": { "Name": "陽明醫院舊址牆面", "descriptio": null, "period": "民", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.54902259727568, 25.150223531332241 ] } },
 { "type": "Feature", "properties": { "Name": "南投林區管理處水里工作站所轄木造辦公廳舍", "descriptio": null, "period": "日", "T_Name": "水里鄉", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.856404071060069, 23.812631928680947 ] } },
-{ "type": "Feature", "properties": { "Name": "原南國運送店", "descriptio": null, "period": "日", "T_Name": "西區", "C_Name": "嘉義市" }, "geometry": { "type": "Point", "coordinates": [ 120.443583058212781, 23.483090112602508 ] } }
+{ "type": "Feature", "properties": { "Name": "原南國運送店", "descriptio": null, "period": "日", "T_Name": "西區", "C_Name": "嘉義市" }, "geometry": { "type": "Point", "coordinates": [ 120.443583058212781, 23.483090112602508 ] } },
+{ "type": "Feature", "properties": { "Name": "瑞芳瑞三鑛業－整煤場辦事處", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.82791682823273, 25.086784099506296 ] } },
+{ "type": "Feature", "properties": { "Name": "瑞芳瑞三鑛業－原料倉庫", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.827868155667076, 25.086663668734431 ] } },
+{ "type": "Feature", "properties": { "Name": "瑞芳瑞三鑛業－整煤廠", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.827601458582734, 25.086423751796701 ] } },
+{ "type": "Feature", "properties": { "Name": "瑞芳瑞三鑛業－運煤橋", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.827845304472575, 25.086003286143857 ] } },
+{ "type": "Feature", "properties": { "Name": "瑞芳瑞三鑛業－廢水處理廠", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.828018581470943, 25.086585713989258 ] } }
 ]
 }
