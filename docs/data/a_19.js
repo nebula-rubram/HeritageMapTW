@@ -166,7 +166,6 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "蒲添生故居", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.52467194570248, 25.045480984994271 ] } },
 { "type": "Feature", "properties": { "Name": "原樟腦精製工場", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.527818007495696, 25.045061487010386 ] } },
 { "type": "Feature", "properties": { "Name": "臺大醫院舊館西址鍋爐室（含洗衣房及煙囪）", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.518189409150594, 25.043498281026466 ] } },
-{ "type": "Feature", "properties": { "Name": "衡陽路54、56、58、60號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511939869126294, 25.042201922256936 ] } },
 { "type": "Feature", "properties": { "Name": "峰圃茶莊", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.5133898539694, 25.045356553237703 ] } },
 { "type": "Feature", "properties": { "Name": "原辰馬商會本町店鋪（彰化銀行臺北分行）", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513406578231113, 25.045579883295662 ] } },
 { "type": "Feature", "properties": { "Name": "國立中央圖書館舊址", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512079566676704, 25.032426047314431 ] } },
@@ -231,7 +230,7 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "圓山坑道", "descriptio": null, "period": "民", "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.522785119058796, 25.074683728253458 ] } },
 { "type": "Feature", "properties": { "Name": "美援宿舍群（松江路85巷4號）", "descriptio": null, "period": "民", "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.533450609028819, 25.050013775450005 ] } },
 { "type": "Feature", "properties": { "Name": "美援宿舍群（長安東路2段155號、157號、159號，龍江路46巷6號、8號、10號）", "descriptio": null, "period": "民", "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.539578521573006, 25.048935826706277 ] } },
-{ "type": "Feature", "properties": { "Name": "濟南路三段50號", "descriptio": null, "period": "民", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.536104795697014, 25.039965512746601 ] } },
+{ "type": "Feature", "properties": { "Name": "濟南路3段50號（省長臺北官邸）", "descriptio": null, "period": "民", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.536104795697014, 25.039965512746601 ] } },
 { "type": "Feature", "properties": { "Name": "臺大農業陳列館", "descriptio": null, "period": "民", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.534184961176194, 25.018102649801108 ] } },
 { "type": "Feature", "properties": { "Name": "月涵堂", "descriptio": null, "period": "民", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.526244231918795, 25.029959931070064 ] } },
 { "type": "Feature", "properties": { "Name": "僑光堂", "descriptio": null, "period": "民", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.537589742563796, 25.015149057274783 ] } },
@@ -829,7 +828,6 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "後浦武廟", "descriptio": null, "period": "清", "T_Name": "金城鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.316749032001425, 24.433063965950804 ] } },
 { "type": "Feature", "properties": { "Name": "後浦大夫第", "descriptio": null, "period": "清", "T_Name": "金城鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.315597033478412, 24.433127008769301 ] } },
 { "type": "Feature", "properties": { "Name": "珠浦許氏家廟", "descriptio": null, "period": "清", "T_Name": "金城鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.316112916489445, 24.431391430665801 ] } },
-{ "type": "Feature", "properties": { "Name": "林斐章大宅", "descriptio": null, "period": "清", "T_Name": "金城鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.318752660181445, 24.433353568350423 ] } },
 { "type": "Feature", "properties": { "Name": "建威第", "descriptio": null, "period": "清", "T_Name": "金城鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.314287853785402, 24.431000209671399 ] } },
 { "type": "Feature", "properties": { "Name": "閩王祠", "descriptio": null, "period": "清", "T_Name": "金城鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.318414134605462, 24.431951935160313 ] } },
 { "type": "Feature", "properties": { "Name": "後浦陳氏祠堂", "descriptio": null, "period": "清", "T_Name": "金城鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.31701658879345, 24.432903195422107 ] } },
@@ -1281,7 +1279,7 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "斗南火車站北側倉庫群", "descriptio": null, "period": "民", "T_Name": "斗南鎮", "C_Name": "雲林縣" }, "geometry": { "type": "Point", "coordinates": [ 120.481768767220203, 23.674166981298768 ] } },
 { "type": "Feature", "properties": { "Name": "公路局斗南車站", "descriptio": null, "period": "民", "T_Name": "斗南鎮", "C_Name": "雲林縣" }, "geometry": { "type": "Point", "coordinates": [ 120.478133248012895, 23.67290656233962 ] } },
 { "type": "Feature", "properties": { "Name": "原雲林縣警察局", "descriptio": null, "period": "民", "T_Name": "斗六市", "C_Name": "雲林縣" }, "geometry": { "type": "Point", "coordinates": [ 120.540423599999983, 23.707799700000059 ] } },
-{ "type": "Feature", "properties": { "Name": "雙忠廟", "descriptio": null, "period": "清", "T_Name": "東區", "C_Name": "嘉義市" }, "geometry": { "type": "Point", "coordinates": [ 120.454505789196318, 23.478697085528399 ] } },
+{ "type": "Feature", "properties": { "Name": "雙忠廟", "descriptio": null, "period": "清", "T_Name": "東區", "C_Name": "嘉義市" }, "geometry": { "type": "Point", "coordinates": [ 120.45459974017642, 23.478772427855432 ] } },
 { "type": "Feature", "properties": { "Name": "紅毛井", "descriptio": null, "period": "清", "T_Name": "東區", "C_Name": "嘉義市" }, "geometry": { "type": "Point", "coordinates": [ 120.454356921306982, 23.477853184415249 ] } },
 { "type": "Feature", "properties": { "Name": "水源地水錶室", "descriptio": null, "period": "日", "T_Name": "東區", "C_Name": "嘉義市" }, "geometry": { "type": "Point", "coordinates": [ 120.470779490748995, 23.484110396868843 ] } },
 { "type": "Feature", "properties": { "Name": "水源地沉澱井暨濾過井", "descriptio": null, "period": "日", "T_Name": "東區", "C_Name": "嘉義市" }, "geometry": { "type": "Point", "coordinates": [ 120.478131400134004, 23.48481447622499 ] } },
@@ -1778,6 +1776,11 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "瑞芳瑞三鑛業－原料倉庫", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.827868155667076, 25.086663668734431 ] } },
 { "type": "Feature", "properties": { "Name": "瑞芳瑞三鑛業－整煤廠", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.827601458582734, 25.086423751796701 ] } },
 { "type": "Feature", "properties": { "Name": "瑞芳瑞三鑛業－運煤橋", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.827845304472575, 25.086003286143857 ] } },
-{ "type": "Feature", "properties": { "Name": "瑞芳瑞三鑛業－廢水處理廠", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.828018581470943, 25.086585713989258 ] } }
+{ "type": "Feature", "properties": { "Name": "瑞芳瑞三鑛業－廢水處理廠", "descriptio": null, "period": "日", "T_Name": "瑞芳區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.828018581470943, 25.086585713989258 ] } },
+{ "type": "Feature", "properties": { "Name": "同安街28巷1號日式宿舍", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.521707018216674, 25.024818643393147 ] } },
+{ "type": "Feature", "properties": { "Name": "安西街21巷1號", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510127456877001, 25.059869210096355 ] } },
+{ "type": "Feature", "properties": { "Name": "大安十二甲東門住宅利用信用購買組合房舍", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.530284937649682, 25.031540345723929 ] } },
+{ "type": "Feature", "properties": { "Name": "博愛路93號店屋（原近藤商會店鋪）", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511680358425309, 25.043168618573802 ] } },
+{ "type": "Feature", "properties": { "Name": "博愛路132號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511400825648963, 25.042971123839564 ] } }
 ]
 }

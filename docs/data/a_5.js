@@ -226,7 +226,6 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "小島屋", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512713904825716, 25.042194975878491 ] } },
 { "type": "Feature", "properties": { "Name": "南門町三二三", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511111672584718, 25.032554638436991 ] } },
 { "type": "Feature", "properties": { "Name": "一六軒", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513337023302213, 25.043025815086988 ] } },
-{ "type": "Feature", "properties": { "Name": "近藤商會", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511590782010202, 25.04317571012384 ] } },
 { "type": "Feature", "properties": { "Name": "孫文銅像", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510550621444182, 25.043790781613112 ] } },
 { "type": "Feature", "properties": { "Name": "二二八紀念碑", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.515017965730479, 25.041282668805813 ] } },
 { "type": "Feature", "properties": { "Name": "新公園日式庭園", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.514458667924316, 25.042519519800443 ] } },
@@ -622,6 +621,8 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "安平稅務司公館", "descriptio": null, "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.160127185154636, 23.001320432816406 ] } },
 { "type": "Feature", "properties": { "Name": "義一路星巴克", "descriptio": null, "T_Name": "中正區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.744638670382741, 25.131145857703604 ] } },
 { "type": "Feature", "properties": { "Name": "汕頭街派出所紀念碑", "descriptio": null, "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.504154804205115, 25.032491801460612 ] } },
-{ "type": "Feature", "properties": { "Name": "日善公園防空洞", "descriptio": null, "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.496758003399307, 25.026403541590874 ] } }
+{ "type": "Feature", "properties": { "Name": "日善公園防空洞", "descriptio": null, "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.496758003399307, 25.026403541590874 ] } },
+{ "type": "Feature", "properties": { "Name": "陳永成公廳", "descriptio": null, "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.55660426202013, 25.035764490716495 ] } },
+{ "type": "Feature", "properties": { "Name": "樟普寮鳳山寺", "descriptio": null, "T_Name": "名間鄉", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.637494212441737, 23.940697684714216 ] } }
 ]
 }
