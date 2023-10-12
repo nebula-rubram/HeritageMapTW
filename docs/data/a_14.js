@@ -83,7 +83,6 @@ var json__14 = {
 { "type": "Feature", "properties": { "Name": "Sia mai-asang kasing佳心舊部落", "descriptio": null, "T_Name": "卓溪鄉", "C_Name": "花蓮縣" }, "geometry": { "type": "Point", "coordinates": [ 121.208257202630648, 23.349697965271805 ] } },
 { "type": "Feature", "properties": { "Name": "大溪公園", "descriptio": null, "T_Name": "大溪區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.285051014971515, 24.883579206908777 ] } },
 { "type": "Feature", "properties": { "Name": "東海大學早期校園", "descriptio": null, "T_Name": "西屯區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.600560192940492, 24.17855389616145 ] } },
-{ "type": "Feature", "properties": { "Name": "馬祖戰地文化景觀", "descriptio": null, "T_Name": "南竿鄉, 北竿鄉, 莒光鄉, 東引鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.963979688153586, 26.181313987600614 ] } },
 { "type": "Feature", "properties": { "Name": "頭社古日潭浮田文化景觀（含頭社大排水門）", "descriptio": null, "T_Name": "魚池鄉", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.902531739935327, 23.828311132932377 ] } },
 { "type": "Feature", "properties": { "Name": "國立故宮博物院院區", "descriptio": null, "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.54886939330116, 25.101392830737243 ] } },
 { "type": "Feature", "properties": { "Name": "馬祖戰地文化景觀－東引天王澳據點", "descriptio": null, "T_Name": "東引鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 120.504967562177526, 26.366307830785537 ] } },
