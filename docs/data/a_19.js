@@ -963,7 +963,7 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "模範街（一度於戰地政務時期稱為自強街)", "descriptio": null, "period": "民", "T_Name": "金城鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.319341293676445, 24.43211671879132 ] } },
 { "type": "Feature", "properties": { "Name": "雄獅堡", "descriptio": null, "period": "民", "T_Name": "金城鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.310179861272346, 24.431506181036266 ] } },
 { "type": "Feature", "properties": { "Name": "金城城區地下坑道", "descriptio": "坑道分佈從金門高中、金門縣國民黨黨部(金門育樂中心)、金門縣政府、土地銀行、北嶽廟至金城車站(公車站)", "period": "民", "T_Name": "金城鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.312218086778344, 24.437104840695476 ] } },
-{ "type": "Feature", "properties": { "Name": "金板境天后宮", "descriptio": null, "period": "清", "T_Name": "南竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.924173400655164, 26.142096546112217 ] } },
+{ "type": "Feature", "properties": { "Name": "金板境天后宮", "descriptio": null, "period": "清", "T_Name": "南竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.924455377287913, 26.142032884202074 ] } },
 { "type": "Feature", "properties": { "Name": "東勢劉文進墓", "descriptio": null, "period": "清", "T_Name": "東勢區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.841910293941993, 24.245814548895645 ] } },
 { "type": "Feature", "properties": { "Name": "月恆門", "descriptio": null, "period": "清", "T_Name": "東勢區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.835243964096989, 24.220269677438363 ] } },
 { "type": "Feature", "properties": { "Name": "豐原萬選居", "descriptio": null, "period": "清", "T_Name": "豐原區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.737620854767002, 24.265386426409179 ] } },
@@ -1781,6 +1781,12 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "安西街21巷1號", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510127456877001, 25.059869210096355 ] } },
 { "type": "Feature", "properties": { "Name": "大安十二甲東門住宅利用信用購買組合房舍", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.530284937649682, 25.031540345723929 ] } },
 { "type": "Feature", "properties": { "Name": "博愛路93號店屋（原近藤商會店鋪）", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511680358425309, 25.043168618573802 ] } },
-{ "type": "Feature", "properties": { "Name": "博愛路132號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511400825648963, 25.042971123839564 ] } }
+{ "type": "Feature", "properties": { "Name": "博愛路132號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511400825648963, 25.042971123839564 ] } },
+{ "type": "Feature", "properties": { "Name": "博愛路116號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511403368030329, 25.043535842451856 ] } },
+{ "type": "Feature", "properties": { "Name": "開封街1段79號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511630993718185, 25.046061556475671 ] } },
+{ "type": "Feature", "properties": { "Name": "東引鄉劉依祥宅", "descriptio": null, "period": "民", "T_Name": "東引鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 120.487459637721329, 26.36747602683042 ] } },
+{ "type": "Feature", "properties": { "Name": "北竿鄉五間排", "descriptio": null, "period": "清", "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.993975509099641, 26.234212485007493 ] } },
+{ "type": "Feature", "properties": { "Name": "連江縣政府舊址", "descriptio": null, "period": "民", "T_Name": "南竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.925746635633089, 26.143259648070362 ] } },
+{ "type": "Feature", "properties": { "Name": "田沃村五靈公廟", "descriptio": null, "period": "清", "T_Name": "莒光鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.939911354364753, 25.976564210597349 ] } }
 ]
 }

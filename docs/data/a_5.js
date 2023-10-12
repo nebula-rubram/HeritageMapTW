@@ -440,18 +440,10 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "台南護專", "descriptio": null, "T_Name": "中西區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.207752606115221, 22.995814297485136 ] } },
 { "type": "Feature", "properties": { "Name": "東市場", "descriptio": null, "T_Name": "中西區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.209743738158608, 22.991311532061733 ] } },
 { "type": "Feature", "properties": { "Name": "開山路主教座堂", "descriptio": null, "T_Name": "中西區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.209189981786494, 22.987371723274737 ] } },
-{ "type": "Feature", "properties": { "Name": "鐵堡", "descriptio": null, "T_Name": "南竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.92087465362917, 26.142069306236007 ] } },
-{ "type": "Feature", "properties": { "Name": "北海坑道", "descriptio": null, "T_Name": "南竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.928966823186457, 26.142535678061915 ] } },
-{ "type": "Feature", "properties": { "Name": "大漢據點", "descriptio": null, "T_Name": "南竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.929090084317608, 26.140626090422543 ] } },
 { "type": "Feature", "properties": { "Name": "福正聚落", "descriptio": null, "T_Name": "莒光鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.982311330820551, 25.966402859103667 ] } },
-{ "type": "Feature", "properties": { "Name": "安東坑道", "descriptio": null, "T_Name": "東引鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 120.496317750034891, 26.365005716016661 ] } },
-{ "type": "Feature", "properties": { "Name": "三三據點", "descriptio": null, "T_Name": "東引鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 120.470565682578268, 26.372547146390311 ] } },
-{ "type": "Feature", "properties": { "Name": "田沃聚落", "descriptio": null, "T_Name": "莒光鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.938433385201265, 25.97438987027931 ] } },
+{ "type": "Feature", "properties": { "Name": "田沃聚落", "descriptio": null, "T_Name": "莒光鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.940352448905031, 25.976663522724969 ] } },
 { "type": "Feature", "properties": { "Name": "橋仔聚落", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.99357348344644, 26.234845834723917 ] } },
-{ "type": "Feature", "properties": { "Name": "戰爭和平紀念公園主題館", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 120.00851951273232, 26.220614735379083 ] } },
-{ "type": "Feature", "properties": { "Name": "八八坑道", "descriptio": null, "T_Name": "南竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.953296761063129, 26.160620160393528 ] } },
-{ "type": "Feature", "properties": { "Name": "勝利堡", "descriptio": null, "T_Name": "南竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.934628039324807, 26.159189604299925 ] } },
-{ "type": "Feature", "properties": { "Name": "牛角聚落", "descriptio": null, "T_Name": "南竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.95189755768746, 26.164543066625772 ] } },
+{ "type": "Feature", "properties": { "Name": "牛角聚落", "descriptio": null, "T_Name": "南竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.953051048421344, 26.163334142624009 ] } },
 { "type": "Feature", "properties": { "Name": "良士大廈（王大閎）", "descriptio": null, "T_Name": "松山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.549446228964456, 25.054143777373501 ] } },
 { "type": "Feature", "properties": { "Name": "弘英別墅（王大閎）", "descriptio": null, "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.524386899878323, 25.120958696213716 ] } },
 { "type": "Feature", "properties": { "Name": "臺大第一學生活動中心（王大閎）", "descriptio": null, "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.54011563467833, 25.017857839550558 ] } },
@@ -623,6 +615,10 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "汕頭街派出所紀念碑", "descriptio": null, "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.504154804205115, 25.032491801460612 ] } },
 { "type": "Feature", "properties": { "Name": "日善公園防空洞", "descriptio": null, "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.496758003399307, 25.026403541590874 ] } },
 { "type": "Feature", "properties": { "Name": "陳永成公廳", "descriptio": null, "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.55660426202013, 25.035764490716495 ] } },
-{ "type": "Feature", "properties": { "Name": "樟普寮鳳山寺", "descriptio": null, "T_Name": "名間鄉", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.637494212441737, 23.940697684714216 ] } }
+{ "type": "Feature", "properties": { "Name": "樟普寮鳳山寺", "descriptio": null, "T_Name": "名間鄉", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.637494212441737, 23.940697684714216 ] } },
+{ "type": "Feature", "properties": { "Name": "高登大王爺廟", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.987045098389231, 26.279782664922656 ] } },
+{ "type": "Feature", "properties": { "Name": "坂里大宅", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.974151240434992, 26.216110261734624 ] } },
+{ "type": "Feature", "properties": { "Name": "坂里天后宮", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.972824454243622, 26.213538749031919 ] } },
+{ "type": "Feature", "properties": { "Name": "后澳聚落", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 120.006824605336675, 26.22342845317598 ] } }
 ]
 }
