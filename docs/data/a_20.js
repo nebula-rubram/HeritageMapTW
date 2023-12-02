@@ -991,6 +991,8 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "壯圍二戰時期海岸防禦陣地群－子堡北92", "descriptio": null, "period": "日", "T_Name": "壯圍鄉", "C_Name": "宜蘭縣" }, "geometry": { "type": "Point", "coordinates": [ 121.821896023515038, 24.738252605297596 ] } },
 { "type": "Feature", "properties": { "Name": "後浦林斐章派下大宅", "descriptio": null, "period": "清", "T_Name": "金城鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.318757323702897, 24.433352673813857 ] } },
 { "type": "Feature", "properties": { "Name": "衡陽路54、56、58、60號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511939869126294, 25.042201922256936 ] } },
-{ "type": "Feature", "properties": { "Name": "芹壁天后宮", "descriptio": null, "period": "清", "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.982554996418514, 26.224060450669306 ] } }
+{ "type": "Feature", "properties": { "Name": "芹壁天后宮", "descriptio": null, "period": "清", "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.982554996418514, 26.224060450669306 ] } },
+{ "type": "Feature", "properties": { "Name": "西港劉厝警察官吏派出所", "descriptio": null, "period": "日", "T_Name": "西港區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.180170359379417, 23.127931167216719 ] } },
+{ "type": "Feature", "properties": { "Name": "衡陽路92號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510743037108512, 25.042135016177983 ] } }
 ]
 }

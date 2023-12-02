@@ -1787,6 +1787,14 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "東引鄉劉依祥宅", "descriptio": null, "period": "民", "T_Name": "東引鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 120.487459637721329, 26.36747602683042 ] } },
 { "type": "Feature", "properties": { "Name": "北竿鄉五間排", "descriptio": null, "period": "清", "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.993975509099641, 26.234212485007493 ] } },
 { "type": "Feature", "properties": { "Name": "連江縣政府舊址", "descriptio": null, "period": "民", "T_Name": "南竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.925746635633089, 26.143259648070362 ] } },
-{ "type": "Feature", "properties": { "Name": "田沃村五靈公廟", "descriptio": null, "period": "清", "T_Name": "莒光鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.939911354364753, 25.976564210597349 ] } }
+{ "type": "Feature", "properties": { "Name": "田沃村五靈公廟", "descriptio": null, "period": "清", "T_Name": "莒光鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.939911354364753, 25.976564210597349 ] } },
+{ "type": "Feature", "properties": { "Name": "慈惠醫院及貴陽街二段117號、119號", "descriptio": null, "period": "日", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.502149117137918, 25.040139621595518 ] } },
+{ "type": "Feature", "properties": { "Name": "南京西路25巷2、2-2、2-3號", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.520156502891297, 25.053327359567668 ] } },
+{ "type": "Feature", "properties": { "Name": "博愛路7號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511428707986198, 25.046076918021953 ] } },
+{ "type": "Feature", "properties": { "Name": "臺灣臨濮堂施姓大宗祠", "descriptio": null, "period": "民", "T_Name": "中西區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.195910846715634, 22.995103912527714 ] } },
+{ "type": "Feature", "properties": { "Name": "大溪李金興墓園", "descriptio": null, "period": "清", "T_Name": "大溪區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.283293437344113, 24.867348844177002 ] } },
+{ "type": "Feature", "properties": { "Name": "南崁1號穀倉及農機倉庫", "descriptio": null, "period": "日", "T_Name": "蘆竹區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.293548176531573, 25.046984696518102 ] } },
+{ "type": "Feature", "properties": { "Name": "衡陽路35號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512430652424598, 25.042379543474496 ] } },
+{ "type": "Feature", "properties": { "Name": "北投區一德街22號", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.468300428410458, 25.129081580382074 ] } }
 ]
 }

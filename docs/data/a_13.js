@@ -16,6 +16,7 @@ var json__13 = {
 { "type": "Feature", "properties": { "Name": "明清金門城遺跡－明邵朴庵墓道碑", "descriptio": null, "T_Name": "金城鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.309794249876759, 24.400061041702816 ] } },
 { "type": "Feature", "properties": { "Name": "南庄事件史蹟－日阿拐被傷地點", "descriptio": null, "T_Name": "南庄鄉", "C_Name": "苗栗縣" }, "geometry": { "type": "Point", "coordinates": [ 120.999944353029676, 24.595717738209768 ] } },
 { "type": "Feature", "properties": { "Name": "南庄事件史蹟－萬善諸君義塚", "descriptio": null, "T_Name": "南庄鄉", "C_Name": "苗栗縣" }, "geometry": { "type": "Point", "coordinates": [ 121.000399211408421, 24.603746846714341 ] } },
-{ "type": "Feature", "properties": { "Name": "舊武昌宮", "descriptio": null, "T_Name": "集集鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.792236591364301, 23.831409222456777 ] } }
+{ "type": "Feature", "properties": { "Name": "舊武昌宮", "descriptio": null, "T_Name": "集集鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.792236591364301, 23.831409222456777 ] } },
+{ "type": "Feature", "properties": { "Name": "macacukes石門古戰場", "descriptio": null, "T_Name": "牡丹鄉", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.761698995966242, 22.112328386220909 ] } }
 ]
 }

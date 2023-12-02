@@ -157,10 +157,10 @@ var json__21 = {
 { "type": "Feature", "properties": { "Name": "臺灣府城城門及城垣殘蹟－大東門", "descriptio": null, "period": "清", "T_Name": "東區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.217374137284807, 22.987239542735274 ] } },
 { "type": "Feature", "properties": { "Name": "臺灣府城城門及城垣殘蹟－東門段城垣", "descriptio": null, "period": "清", "T_Name": "東區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.214820693424997, 22.986932456010944 ] } },
 { "type": "Feature", "properties": { "Name": "臺灣府城城門及城垣殘蹟－南門段城垣", "descriptio": null, "period": "清", "T_Name": "中西區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.206328128105, 22.985629040178019 ] } },
-{ "type": "Feature", "properties": { "Name": "熱蘭遮堡－西南稜堡壁殘蹟", "descriptio": null, "period": "古", "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.159532273850331, 23.001182600832092 ] } },
-{ "type": "Feature", "properties": { "Name": "熱蘭遮堡－外城南側城壁殘蹟", "descriptio": null, "period": "古", "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.1602536074341, 23.001489127630855 ] } },
-{ "type": "Feature", "properties": { "Name": "熱蘭遮堡－外城北側城壁殘蹟", "descriptio": null, "period": "古", "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.159845426189449, 23.00207312441465 ] } },
-{ "type": "Feature", "properties": { "Name": "熱蘭遮堡－內城北側半圓形稜堡殘蹟", "descriptio": null, "period": "古", "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.160727515760172, 23.00192645106582 ] } },
-{ "type": "Feature", "properties": { "Name": "熱蘭遮堡－考古遺跡", "descriptio": null, "period": "古", "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.160295902780348, 23.001818987632561 ] } }
+{ "type": "Feature", "properties": { "Name": "熱蘭遮堡遺構－西南稜堡壁殘蹟", "descriptio": null, "period": "古", "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.159532273850331, 23.001182600832092 ] } },
+{ "type": "Feature", "properties": { "Name": "熱蘭遮堡遺構－外城南側城壁殘蹟", "descriptio": null, "period": "古", "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.1602536074341, 23.001489127630855 ] } },
+{ "type": "Feature", "properties": { "Name": "熱蘭遮堡遺構－外城北側城壁殘蹟", "descriptio": null, "period": "古", "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.159845426189449, 23.00207312441465 ] } },
+{ "type": "Feature", "properties": { "Name": "熱蘭遮堡遺構－內城北側半圓形稜堡殘蹟", "descriptio": null, "period": "古", "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.160727515760172, 23.00192645106582 ] } },
+{ "type": "Feature", "properties": { "Name": "熱蘭遮堡遺構－考古遺跡", "descriptio": null, "period": "古", "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.160295902780348, 23.001818987632561 ] } }
 ]
 }
