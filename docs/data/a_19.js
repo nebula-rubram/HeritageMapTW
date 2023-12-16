@@ -1795,6 +1795,7 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "大溪李金興墓園", "descriptio": null, "period": "清", "T_Name": "大溪區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.283293437344113, 24.867348844177002 ] } },
 { "type": "Feature", "properties": { "Name": "南崁1號穀倉及農機倉庫", "descriptio": null, "period": "日", "T_Name": "蘆竹區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.293548176531573, 25.046984696518102 ] } },
 { "type": "Feature", "properties": { "Name": "衡陽路35號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512430652424598, 25.042379543474496 ] } },
-{ "type": "Feature", "properties": { "Name": "北投區一德街22號", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.468300428410458, 25.129081580382074 ] } }
+{ "type": "Feature", "properties": { "Name": "北投區一德街22號", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.468300428410458, 25.129081580382074 ] } },
+{ "type": "Feature", "properties": { "Name": "舊台北監獄尖底明溝", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.525185895189551, 25.030764613294814 ] } }
 ]
 }

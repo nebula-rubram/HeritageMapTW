@@ -993,6 +993,9 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "衡陽路54、56、58、60號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511939869126294, 25.042201922256936 ] } },
 { "type": "Feature", "properties": { "Name": "芹壁天后宮", "descriptio": null, "period": "清", "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.982554996418514, 26.224060450669306 ] } },
 { "type": "Feature", "properties": { "Name": "西港劉厝警察官吏派出所", "descriptio": null, "period": "日", "T_Name": "西港區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.180170359379417, 23.127931167216719 ] } },
-{ "type": "Feature", "properties": { "Name": "衡陽路92號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510743037108512, 25.042135016177983 ] } }
+{ "type": "Feature", "properties": { "Name": "衡陽路92號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510743037108512, 25.042135016177983 ] } },
+{ "type": "Feature", "properties": { "Name": "原臺北帝國大學農學部生物學教室", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.534664175854843, 25.01681389043932 ] } },
+{ "type": "Feature", "properties": { "Name": "原臺北帝國大學農學部生物學教室－漁業生物實驗室", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.534295667184182, 25.016513187841959 ] } },
+{ "type": "Feature", "properties": { "Name": "原臺北帝國大學農學部生物學教室－植物標本館及附屬溫室", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.535123946405591, 25.016427299779274 ] } }
 ]
 }
