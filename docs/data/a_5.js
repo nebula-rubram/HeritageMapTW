@@ -616,6 +616,7 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "高登大王爺廟", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.987045098389231, 26.279782664922656 ] } },
 { "type": "Feature", "properties": { "Name": "坂里大宅", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.974151240434992, 26.216110261734624 ] } },
 { "type": "Feature", "properties": { "Name": "坂里天后宮", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.972824454243622, 26.213538749031919 ] } },
-{ "type": "Feature", "properties": { "Name": "后澳聚落", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 120.006824605336675, 26.22342845317598 ] } }
+{ "type": "Feature", "properties": { "Name": "后澳聚落", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 120.006824605336675, 26.22342845317598 ] } },
+{ "type": "Feature", "properties": { "Name": "北埔新姜天水堂", "descriptio": null, "T_Name": "北埔鄉", "C_Name": "新竹縣" }, "geometry": { "type": "Point", "coordinates": [ 121.056796680648475, 24.700435983947166 ] } }
 ]
 }

@@ -202,6 +202,7 @@ var json__14 = {
 { "type": "Feature", "properties": { "Name": "馬祖戰地文化景觀－東莒特約茶室", "descriptio": null, "T_Name": "莒光鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.973486584364139, 25.961969228890592 ] } },
 { "type": "Feature", "properties": { "Name": "馬祖戰地文化景觀－東莒坪西連", "descriptio": null, "T_Name": "莒光鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.972886699737685, 25.962396121843224 ] } },
 { "type": "Feature", "properties": { "Name": "馬祖戰地文化景觀－東莒４７威猛堡", "descriptio": null, "T_Name": "莒光鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.975360511622341, 25.967788031489775 ] } },
-{ "type": "Feature", "properties": { "Name": "馬祖戰地文化景觀－東莒５６金剛堡", "descriptio": null, "T_Name": "莒光鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.985404338510691, 25.966123709772866 ] } }
+{ "type": "Feature", "properties": { "Name": "馬祖戰地文化景觀－東莒５６金剛堡", "descriptio": null, "T_Name": "莒光鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.985404338510691, 25.966123709772866 ] } },
+{ "type": "Feature", "properties": { "Name": "太武山文化景觀", "descriptio": null, "T_Name": "金沙鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.418004897232294, 24.462684164345085 ] } }
 ]
 }

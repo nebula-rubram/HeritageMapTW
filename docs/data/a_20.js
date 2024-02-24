@@ -85,7 +85,7 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "勸業銀行舊廈", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.514404115768102, 25.043629868241599 ] } },
 { "type": "Feature", "properties": { "Name": "臺北放送局－台灣廣播電臺放送亭", "descriptio": "放送亭為日治時期臺北放送局的擴音亭，具傳播史之價值，亦是殖民政府宣達政策的管道，1945年8月15日裕仁天皇發表「終戰紹書」（一般稱之為「玉音放送」)，亦是透過此放送亭廣播，具歷史", "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.51526436127368, 25.042282315261595 ] } },
 { "type": "Feature", "properties": { "Name": "臺灣總督府電話交換局", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510851968906607, 25.039164159360762 ] } },
-{ "type": "Feature", "properties": { "Name": "骨科醫院及住宅", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.517305000058499, 25.030378999943572 ] } },
+{ "type": "Feature", "properties": { "Name": "原大磯內科醫院", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.517305000058499, 25.030378999943572 ] } },
 { "type": "Feature", "properties": { "Name": "臺灣銀行", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512701167376306, 25.041408679615806 ] } },
 { "type": "Feature", "properties": { "Name": "原大阪商船株式會社台北支店（按：國家攝影文化中心）", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.514466807949518, 25.0466808570723 ] } },
 { "type": "Feature", "properties": { "Name": "立法院（原臺北州立第二高等女學校）", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.519616713906387, 25.043971035549315 ] } },
@@ -996,6 +996,7 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "衡陽路92號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510743037108512, 25.042135016177983 ] } },
 { "type": "Feature", "properties": { "Name": "原臺北帝國大學農學部生物學教室", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.534664175854843, 25.01681389043932 ] } },
 { "type": "Feature", "properties": { "Name": "原臺北帝國大學農學部生物學教室－漁業生物實驗室", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.534295667184182, 25.016513187841959 ] } },
-{ "type": "Feature", "properties": { "Name": "原臺北帝國大學農學部生物學教室－植物標本館及附屬溫室", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.535123946405591, 25.016427299779274 ] } }
+{ "type": "Feature", "properties": { "Name": "原臺北帝國大學農學部生物學教室－植物標本館及附屬溫室", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.535123946405591, 25.016427299779274 ] } },
+{ "type": "Feature", "properties": { "Name": "北埔姜屋天水堂(新屋)", "descriptio": null, "period": "日", "T_Name": "北埔鄉", "C_Name": "新竹縣" }, "geometry": { "type": "Point", "coordinates": [ 121.058683707924487, 24.701463546949732 ] } }
 ]
 }
