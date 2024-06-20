@@ -210,7 +210,6 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "嘉新大樓", "descriptio": null, "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.522393961087417, 25.059476738572503 ] } },
 { "type": "Feature", "properties": { "Name": "聖多福天主堂", "descriptio": null, "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.522832199999897, 25.067263800000084 ] } },
 { "type": "Feature", "properties": { "Name": "菸酒公賣局印刷工廠->中山配銷處", "descriptio": null, "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.524039583558704, 25.058606020816267 ] } },
-{ "type": "Feature", "properties": { "Name": "紅葉園（陳茂通宅）", "descriptio": null, "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.523824505291216, 25.052668537888447 ] } },
 { "type": "Feature", "properties": { "Name": "中山足球場", "descriptio": null, "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.520996358086506, 25.069649407594973 ] } },
 { "type": "Feature", "properties": { "Name": "行天宮", "descriptio": null, "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.533793047379021, 25.062977530241792 ] } },
 { "type": "Feature", "properties": { "Name": "「梅冷堡」", "descriptio": null, "T_Name": "中山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.550070315413691, 25.085766430912642 ] } },
@@ -617,6 +616,13 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "坂里大宅", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.974151240434992, 26.216110261734624 ] } },
 { "type": "Feature", "properties": { "Name": "坂里天后宮", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 119.972824454243622, 26.213538749031919 ] } },
 { "type": "Feature", "properties": { "Name": "后澳聚落", "descriptio": null, "T_Name": "北竿鄉", "C_Name": "連江縣" }, "geometry": { "type": "Point", "coordinates": [ 120.006824605336675, 26.22342845317598 ] } },
-{ "type": "Feature", "properties": { "Name": "北埔新姜天水堂", "descriptio": null, "T_Name": "北埔鄉", "C_Name": "新竹縣" }, "geometry": { "type": "Point", "coordinates": [ 121.056796680648475, 24.700435983947166 ] } }
+{ "type": "Feature", "properties": { "Name": "北埔新姜天水堂", "descriptio": null, "T_Name": "北埔鄉", "C_Name": "新竹縣" }, "geometry": { "type": "Point", "coordinates": [ 121.056796680648475, 24.700435983947166 ] } },
+{ "type": "Feature", "properties": { "Name": "信二路防空洞", "descriptio": null, "T_Name": "中正區", "C_Name": "基隆市" }, "geometry": { "type": "Point", "coordinates": [ 121.746238305008248, 25.13116004499112 ] } },
+{ "type": "Feature", "properties": { "Name": "舊卑南鄉公所", "descriptio": null, "T_Name": "臺東市", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.125212307320226, 22.778941952429253 ] } },
+{ "type": "Feature", "properties": { "Name": "鹿野地區農會", "descriptio": null, "T_Name": "鹿野鄉", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.135892366282079, 22.91173701162456 ] } },
+{ "type": "Feature", "properties": { "Name": "舊鹿野鄉公所", "descriptio": null, "T_Name": "鹿野鄉", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.136188996686286, 22.914196748235835 ] } },
+{ "type": "Feature", "properties": { "Name": "安慶街店鋪(呂阿玉作品)", "descriptio": null, "T_Name": "臺東市", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.151574691573842, 22.753637446867057 ] } },
+{ "type": "Feature", "properties": { "Name": "三海百貨行(呂阿玉作品)", "descriptio": null, "T_Name": "臺東市", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.150689451732376, 22.753848197958646 ] } },
+{ "type": "Feature", "properties": { "Name": "寶桑路店鋪(呂阿玉作品)", "descriptio": null, "T_Name": "臺東市", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.156400634760843, 22.754969611338637 ] } }
 ]
 }
