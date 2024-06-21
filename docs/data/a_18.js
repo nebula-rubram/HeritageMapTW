@@ -21,6 +21,7 @@ var json__18 = {
 { "type": "Feature", "properties": { "Name": "朱錫甘澎湖沙港旅居住所", "descriptio": null, "T_Name": "湖西鄉", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.621952394579409, 23.604712911653237 ] } },
 { "type": "Feature", "properties": { "Name": "清華大學梅貽琦校長墓園", "descriptio": null, "T_Name": "東區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.990766144219123, 24.792900687406092 ] } },
 { "type": "Feature", "properties": { "Name": "金龍禪寺吳濁流紀念碑群－吳濁流文學獎紀念碑", "descriptio": null, "T_Name": "內湖區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.586077170504836, 25.092119388697359 ] } },
-{ "type": "Feature", "properties": { "Name": "金龍禪寺吳濁流紀念碑群－吳濁流親題七言律詩碑", "descriptio": null, "T_Name": "內湖區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.586455689392778, 25.092030077021214 ] } }
+{ "type": "Feature", "properties": { "Name": "金龍禪寺吳濁流紀念碑群－吳濁流親題七言律詩碑", "descriptio": null, "T_Name": "內湖區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.586455689392778, 25.092030077021214 ] } },
+{ "type": "Feature", "properties": { "Name": "三芝源興居", "descriptio": null, "T_Name": "三芝區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509326415370552, 25.249158198938595 ] } }
 ]
 }

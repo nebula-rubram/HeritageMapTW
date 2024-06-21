@@ -77,7 +77,7 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "農業試驗所宿舍群－70號", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.539482156943009, 25.009817297979613 ] } },
 { "type": "Feature", "properties": { "Name": "農業試驗所宿舍群－92、94號", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.540504657890011, 25.010313806803733 ] } },
 { "type": "Feature", "properties": { "Name": "農業試驗所宿舍群－62弄3號", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.53904269511419, 25.00922520680151 ] } },
-{ "type": "Feature", "properties": { "Name": "潮州街55巷2、4、6號(林務局宿舍)", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.523998100043798, 25.029492705030201 ] } },
+{ "type": "Feature", "properties": { "Name": "原臺灣總督府殖產局營林所臺北出張所", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.523998100043798, 25.029492705030201 ] } },
 { "type": "Feature", "properties": { "Name": "臺北市福景宮", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.5572112924458, 25.029615495665585 ] } },
 { "type": "Feature", "properties": { "Name": "舊總督府第二師範學校小使室及便所\n（國立臺北教育大學舊琴房）", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.544045312538586, 25.023750333115007 ] } },
 { "type": "Feature", "properties": { "Name": "國立臺灣大學機械工程館", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.539779585166713, 25.018623150763471 ] } },
@@ -817,7 +817,7 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "天主教白冷外方傳教會", "descriptio": null, "period": "民", "T_Name": "臺東市", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.146429694960986, 22.758299536085435 ] } },
 { "type": "Feature", "properties": { "Name": "臺東縣議會舊址", "descriptio": null, "period": "民", "T_Name": "臺東市", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.142797720530609, 22.762441829216122 ] } },
 { "type": "Feature", "properties": { "Name": "舊鹿鳴吊橋（舊鹿鳴鋼索吊橋）", "descriptio": null, "period": "民", "T_Name": "延平鄉", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.085174601644994, 22.898452410719241 ] } },
-{ "type": "Feature", "properties": { "Name": "萬安磚窯廠", "descriptio": null, "period": "民", "T_Name": "池上鄉", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.21928325342698, 23.095795288068544 ] } },
+{ "type": "Feature", "properties": { "Name": "萬安磚窯（接興煉磚工廠）", "descriptio": null, "period": "民", "T_Name": "池上鄉", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.21928325342698, 23.095795288068544 ] } },
 { "type": "Feature", "properties": { "Name": "宜灣長老教會", "descriptio": null, "period": "民", "T_Name": "成功鎮", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.396878614122002, 23.208293819947858 ] } },
 { "type": "Feature", "properties": { "Name": "宜灣天主堂", "descriptio": null, "period": "民", "T_Name": "成功鎮", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.400482086679986, 23.210379471586052 ] } },
 { "type": "Feature", "properties": { "Name": "小馬天主堂", "descriptio": null, "period": "民", "T_Name": "成功鎮", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.315327362129992, 22.995441042670439 ] } },
@@ -1801,6 +1801,10 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "貴陽街二段119號店屋", "descriptio": null, "period": "日", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.502239195856035, 25.040128132856307 ] } },
 { "type": "Feature", "properties": { "Name": "貴陽街二段117號店屋", "descriptio": null, "period": "日", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.502290308629824, 25.040122614212493 ] } },
 { "type": "Feature", "properties": { "Name": "舊重興派出所辦公廳舍", "descriptio": null, "period": "日", "T_Name": "林內鄉", "C_Name": "雲林縣" }, "geometry": { "type": "Point", "coordinates": [ 120.577532366530448, 23.768092203765768 ] } },
-{ "type": "Feature", "properties": { "Name": "原西螺延平街德春齒科", "descriptio": null, "period": "日", "T_Name": "西螺鎮", "C_Name": "雲林縣" }, "geometry": { "type": "Point", "coordinates": [ 120.462218353841422, 23.801736947990385 ] } }
+{ "type": "Feature", "properties": { "Name": "原西螺延平街德春齒科", "descriptio": null, "period": "日", "T_Name": "西螺鎮", "C_Name": "雲林縣" }, "geometry": { "type": "Point", "coordinates": [ 120.462218353841422, 23.801736947990385 ] } },
+{ "type": "Feature", "properties": { "Name": "柳營劉家大房古厝", "descriptio": null, "period": "清", "T_Name": "柳營區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.309894725264471, 23.277120425438401 ] } },
+{ "type": "Feature", "properties": { "Name": "開封街一段81、83號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511558703980342, 25.046062560947032 ] } },
+{ "type": "Feature", "properties": { "Name": "臺灣大學化學工程館", "descriptio": null, "period": "民", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.538261258063201, 25.018132199451451 ] } },
+{ "type": "Feature", "properties": { "Name": "虎尾登記所", "descriptio": null, "period": "日", "T_Name": "虎尾鎮", "C_Name": "雲林縣" }, "geometry": { "type": "Point", "coordinates": [ 120.4330651700038, 23.708782994516469 ] } }
 ]
 }

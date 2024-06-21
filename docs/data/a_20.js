@@ -997,6 +997,9 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "原臺北帝國大學農學部生物學教室", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.534664175854843, 25.01681389043932 ] } },
 { "type": "Feature", "properties": { "Name": "原臺北帝國大學農學部生物學教室－漁業生物實驗室", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.534295667184182, 25.016513187841959 ] } },
 { "type": "Feature", "properties": { "Name": "原臺北帝國大學農學部生物學教室－植物標本館及附屬溫室", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.535123946405591, 25.016427299779274 ] } },
-{ "type": "Feature", "properties": { "Name": "北埔姜屋天水堂(新屋)", "descriptio": null, "period": "日", "T_Name": "北埔鄉", "C_Name": "新竹縣" }, "geometry": { "type": "Point", "coordinates": [ 121.058683707924487, 24.701463546949732 ] } }
+{ "type": "Feature", "properties": { "Name": "北埔姜屋天水堂(新屋)", "descriptio": null, "period": "日", "T_Name": "北埔鄉", "C_Name": "新竹縣" }, "geometry": { "type": "Point", "coordinates": [ 121.058683707924487, 24.701463546949732 ] } },
+{ "type": "Feature", "properties": { "Name": "竹東長春醫院", "descriptio": null, "period": "日", "T_Name": "竹東鎮", "C_Name": "新竹縣" }, "geometry": { "type": "Point", "coordinates": [ 121.087040401741532, 24.739333939314665 ] } },
+{ "type": "Feature", "properties": { "Name": "全祥茶莊精製廠", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.508392906812531, 25.054941307127496 ] } },
+{ "type": "Feature", "properties": { "Name": "士林大東路54號店屋", "descriptio": null, "period": "日", "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.525492152441601, 25.089763500239766 ] } }
 ]
 }
