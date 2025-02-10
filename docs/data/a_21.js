@@ -25,7 +25,6 @@ var json__21 = {
 { "type": "Feature", "properties": { "Name": "臺灣總督府鐵道部－電源室", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511070300207493, 25.049172068376855 ] } },
 { "type": "Feature", "properties": { "Name": "臺灣總督府鐵道部－八角樓男廁", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510932343665417, 25.048976591447857 ] } },
 { "type": "Feature", "properties": { "Name": "臺灣總督府鐵道部－戰時指揮中心", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.5109005154588, 25.049438050072926 ] } },
-{ "type": "Feature", "properties": { "Name": "臺灣總督府鐵道部－台北工場遺構", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510751954305121, 25.049758509999766 ] } },
 { "type": "Feature", "properties": { "Name": "臺北機廠－組立工場", "descriptio": null, "period": "日", "T_Name": "信義區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.563331088607697, 25.046351760322558 ] } },
 { "type": "Feature", "properties": { "Name": "臺北機廠－鍛冶工場", "descriptio": null, "period": "日", "T_Name": "信義區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.564189518864382, 25.045825429378606 ] } },
 { "type": "Feature", "properties": { "Name": "臺北機廠－客車工場", "descriptio": null, "period": "日", "T_Name": "信義區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.565591792189494, 25.04571486318175 ] } },
@@ -162,6 +161,7 @@ var json__21 = {
 { "type": "Feature", "properties": { "Name": "熱蘭遮堡遺構－外城北側城壁殘蹟", "descriptio": null, "period": "古", "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.159845426189449, 23.00207312441465 ] } },
 { "type": "Feature", "properties": { "Name": "熱蘭遮堡遺構－內城北側半圓形稜堡殘蹟", "descriptio": null, "period": "古", "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.160727515760172, 23.00192645106582 ] } },
 { "type": "Feature", "properties": { "Name": "熱蘭遮堡遺構－考古遺跡", "descriptio": null, "period": "古", "T_Name": "安平區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.160295902780348, 23.001818987632561 ] } },
-{ "type": "Feature", "properties": { "Name": "天水堂", "descriptio": null, "period": "清", "T_Name": "北埔鄉", "C_Name": "新竹縣" }, "geometry": { "type": "Point", "coordinates": [ 121.058223477543748, 24.700430609578486 ] } }
+{ "type": "Feature", "properties": { "Name": "天水堂", "descriptio": null, "period": "清", "T_Name": "北埔鄉", "C_Name": "新竹縣" }, "geometry": { "type": "Point", "coordinates": [ 121.058223477543748, 24.700430609578486 ] } },
+{ "type": "Feature", "properties": { "Name": "西嶼彈藥本庫", "descriptio": null, "period": "日", "T_Name": "西嶼鄉", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.510402892312229, 23.569798628562701 ] } }
 ]
 }

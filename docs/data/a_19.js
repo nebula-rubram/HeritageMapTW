@@ -455,7 +455,6 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "大溪和平路金源", "descriptio": null, "period": "清", "T_Name": "大溪區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.286956852285002, 24.885395070030274 ] } },
 { "type": "Feature", "properties": { "Name": "大溪石板古道", "descriptio": null, "period": "清", "T_Name": "大溪區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.285994058581011, 24.887244449595887 ] } },
 { "type": "Feature", "properties": { "Name": "大溪和平路金記同興", "descriptio": null, "period": "清", "T_Name": "大溪區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.287445079619019, 24.88511912068568 ] } },
-{ "type": "Feature", "properties": { "Name": "八德三元宮", "descriptio": null, "period": "清", "T_Name": "八德區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.28458501848101, 24.930205009408379 ] } },
 { "type": "Feature", "properties": { "Name": "黃繼烔公墓園", "descriptio": null, "period": "清", "T_Name": "龜山區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.378540300853004, 25.061466626474793 ] } },
 { "type": "Feature", "properties": { "Name": "八德林奇珍古墓", "descriptio": null, "period": "清", "T_Name": "八德區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.288073633441996, 24.931979766038882 ] } },
 { "type": "Feature", "properties": { "Name": "大溪和平路48、48-1號", "descriptio": null, "period": "清", "T_Name": "大溪區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.287732142430997, 24.88507951226288 ] } },
@@ -1805,6 +1804,18 @@ var json__19 = {
 { "type": "Feature", "properties": { "Name": "柳營劉家大房古厝", "descriptio": null, "period": "清", "T_Name": "柳營區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.309894725264471, 23.277120425438401 ] } },
 { "type": "Feature", "properties": { "Name": "開封街一段81、83號店屋", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511558703980342, 25.046062560947032 ] } },
 { "type": "Feature", "properties": { "Name": "臺灣大學化學工程館", "descriptio": null, "period": "民", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.538261258063201, 25.018132199451451 ] } },
-{ "type": "Feature", "properties": { "Name": "虎尾登記所", "descriptio": null, "period": "日", "T_Name": "虎尾鎮", "C_Name": "雲林縣" }, "geometry": { "type": "Point", "coordinates": [ 120.4330651700038, 23.708782994516469 ] } }
+{ "type": "Feature", "properties": { "Name": "虎尾登記所", "descriptio": null, "period": "日", "T_Name": "虎尾鎮", "C_Name": "雲林縣" }, "geometry": { "type": "Point", "coordinates": [ 120.4330651700038, 23.708782994516469 ] } },
+{ "type": "Feature", "properties": { "Name": "通霄騰清公祠", "descriptio": null, "period": "清", "T_Name": "通霄鎮", "C_Name": "苗栗縣" }, "geometry": { "type": "Point", "coordinates": [ 120.72733496022019, 24.463409840565586 ] } },
+{ "type": "Feature", "properties": { "Name": "台鐵竹南站2號倉庫", "descriptio": null, "period": "民", "T_Name": "竹南鎮", "C_Name": "苗栗縣" }, "geometry": { "type": "Point", "coordinates": [ 120.880333277412234, 24.687639178214933 ] } },
+{ "type": "Feature", "properties": { "Name": "原新竹州農業傳習所廳舍", "descriptio": null, "period": "民", "T_Name": "竹南鎮", "C_Name": "苗栗縣" }, "geometry": { "type": "Point", "coordinates": [ 120.872869912898366, 24.713029795745125 ] } },
+{ "type": "Feature", "properties": { "Name": "迪化街1段15號暨南京西路233巷14號店屋", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510229717914356, 25.054227241424865 ] } },
+{ "type": "Feature", "properties": { "Name": "原臺灣瓦斯株式會社（煤氣遺構）", "descriptio": null, "period": "日", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.503486448446324, 25.044976932757571 ] } },
+{ "type": "Feature", "properties": { "Name": "士林區仁民路50號", "descriptio": null, "period": "民", "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.542904974496693, 25.133270145534333 ] } },
+{ "type": "Feature", "properties": { "Name": "龍安國民小學「紅樓」（錦尋常小學校）", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.53532388900733, 25.024069615345713 ] } },
+{ "type": "Feature", "properties": { "Name": "土場國小", "descriptio": null, "period": "民", "T_Name": "大同鄉", "C_Name": "宜蘭縣" }, "geometry": { "type": "Point", "coordinates": [ 121.496316395068746, 24.556444576702692 ] } },
+{ "type": "Feature", "properties": { "Name": "宜蘭吳沙夫人墓", "descriptio": null, "period": "民", "T_Name": "礁溪鄉", "C_Name": "宜蘭縣" }, "geometry": { "type": "Point", "coordinates": [ 121.757688735503251, 24.789309721394112 ] } },
+{ "type": "Feature", "properties": { "Name": "新平溪煤礦歷史建築群", "descriptio": null, "period": "民", "T_Name": "平溪區", "C_Name": "新北市" }, "geometry": { "type": "Point", "coordinates": [ 121.773426190638247, 25.052602514813998 ] } },
+{ "type": "Feature", "properties": { "Name": "鹿港長源醫院", "descriptio": null, "period": "日", "T_Name": "鹿港鎮", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.434991877436445, 24.054556018547022 ] } },
+{ "type": "Feature", "properties": { "Name": "臺南東門長老教會原主日學教室", "descriptio": null, "period": "日", "T_Name": "東區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.21566524417257, 22.987321165597663 ] } }
 ]
 }

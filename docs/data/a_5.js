@@ -216,7 +216,6 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "被好好看成一半的日式宿舍", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.520252935825795, 25.028842916156574 ] } },
 { "type": "Feature", "properties": { "Name": "山下金物店", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513408999243708, 25.045017406620637 ] } },
 { "type": "Feature", "properties": { "Name": "臺灣商務印書館", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513378130139102, 25.045273858507478 ] } },
-{ "type": "Feature", "properties": { "Name": "?利茶舖", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.51304496576401, 25.042484575378015 ] } },
 { "type": "Feature", "properties": { "Name": "新高旅館", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513056551978394, 25.044458771738537 ] } },
 { "type": "Feature", "properties": { "Name": "日進商會", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513038983362492, 25.043032833700444 ] } },
 { "type": "Feature", "properties": { "Name": "小島屋", "descriptio": null, "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.512713904825716, 25.042194975878491 ] } },
@@ -249,7 +248,6 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "南機場二期整宅", "descriptio": null, "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.504160894734696, 25.029285474712815 ] } },
 { "type": "Feature", "properties": { "Name": "華江整建住宅", "descriptio": null, "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.494199236233499, 25.035773822051166 ] } },
 { "type": "Feature", "properties": { "Name": "福民平宅", "descriptio": null, "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.490737319968602, 25.027653725109314 ] } },
-{ "type": "Feature", "properties": { "Name": "臺灣瓦斯株式會社", "descriptio": null, "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.503627267490899, 25.044745798231006 ] } },
 { "type": "Feature", "properties": { "Name": "安康平宅", "descriptio": null, "T_Name": "文山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.561430419034181, 24.987308532072365 ] } },
 { "type": "Feature", "properties": { "Name": "木柵國小校長宿舍", "descriptio": null, "T_Name": "文山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.569717571972305, 24.989993503281688 ] } },
 { "type": "Feature", "properties": { "Name": "芳川煤礦", "descriptio": null, "T_Name": "文山區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.569744678120131, 24.997631992625983 ] } },
@@ -621,6 +619,9 @@ var json__5 = {
 { "type": "Feature", "properties": { "Name": "舊鹿野鄉公所", "descriptio": null, "T_Name": "鹿野鄉", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.136188996686286, 22.914196748235835 ] } },
 { "type": "Feature", "properties": { "Name": "安慶街店鋪(呂阿玉作品)", "descriptio": null, "T_Name": "臺東市", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.151574691573842, 22.753637446867057 ] } },
 { "type": "Feature", "properties": { "Name": "三海百貨行(呂阿玉作品)", "descriptio": null, "T_Name": "臺東市", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.150689451732376, 22.753848197958646 ] } },
-{ "type": "Feature", "properties": { "Name": "寶桑路店鋪(呂阿玉作品)", "descriptio": null, "T_Name": "臺東市", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.156400634760843, 22.754969611338637 ] } }
+{ "type": "Feature", "properties": { "Name": "寶桑路店鋪(呂阿玉作品)", "descriptio": null, "T_Name": "臺東市", "C_Name": "臺東縣" }, "geometry": { "type": "Point", "coordinates": [ 121.156400634760843, 22.754969611338637 ] } },
+{ "type": "Feature", "properties": { "Name": "存德中藥房", "descriptio": null, "T_Name": "金城鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.317825304590897, 24.432092058950218 ] } },
+{ "type": "Feature", "properties": { "Name": "瓊林民防坑道", "descriptio": null, "T_Name": "金湖鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.37288976374397, 24.455276068858279 ] } },
+{ "type": "Feature", "properties": { "Name": "汕頭街22巷59衖路牌", "descriptio": null, "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.504197520123157, 25.031921690261104 ] } }
 ]
 }

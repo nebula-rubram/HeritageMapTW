@@ -72,6 +72,14 @@ var json__11 = {
 { "type": "Feature", "properties": { "Name": "港口遺址（列冊）", "descriptio": null, "T_Name": "豐濱鄉", "C_Name": "花蓮縣" }, "geometry": { "type": "Point", "coordinates": [ 121.501863283698412, 23.472758981455506 ] } },
 { "type": "Feature", "properties": { "Name": "靜浦遺址（列冊）", "descriptio": null, "T_Name": "豐濱鄉", "C_Name": "花蓮縣" }, "geometry": { "type": "Point", "coordinates": [ 121.49534870942756, 23.461992743734033 ] } },
 { "type": "Feature", "properties": { "Name": "覆鼎金考古遺址（列冊）", "descriptio": null, "T_Name": "埔里鎮", "C_Name": "南投縣" }, "geometry": { "type": "Point", "coordinates": [ 120.957532827331676, 23.953985234532198 ] } },
-{ "type": "Feature", "properties": { "Name": "芝山岩考古遺址", "descriptio": null, "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.532068446627903, 25.102235752598887 ] } }
+{ "type": "Feature", "properties": { "Name": "芝山岩考古遺址", "descriptio": null, "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.532068446627903, 25.102235752598887 ] } },
+{ "type": "Feature", "properties": { "Name": "七美史前石器製造場考古遺址群－南港遺址1", "descriptio": null, "T_Name": "七美鄉", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.426248287022815, 23.190924215609982 ] } },
+{ "type": "Feature", "properties": { "Name": "七美史前石器製造場考古遺址群－南港遺址2", "descriptio": null, "T_Name": "七美鄉", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.425590025518318, 23.191424909618181 ] } },
+{ "type": "Feature", "properties": { "Name": "七美史前石器製造場考古遺址群－南港遺址3", "descriptio": null, "T_Name": "七美鄉", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.426993318969963, 23.192647960269891 ] } },
+{ "type": "Feature", "properties": { "Name": "七美史前石器製造場考古遺址群－南港遺址4", "descriptio": null, "T_Name": "七美鄉", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.430245451512747, 23.190885232818054 ] } },
+{ "type": "Feature", "properties": { "Name": "七美史前石器製造場考古遺址群－西北灣遺址", "descriptio": null, "T_Name": "七美鄉", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.433913202384218, 23.21989872007704 ] } },
+{ "type": "Feature", "properties": { "Name": "七美史前石器製造場考古遺址群－東湖遺址", "descriptio": null, "T_Name": "七美鄉", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.441416973223355, 23.208114209182746 ] } },
+{ "type": "Feature", "properties": { "Name": "七美史前石器製造場考古遺址群－西湖遺址", "descriptio": null, "T_Name": "七美鄉", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.423813619880093, 23.217858853042973 ] } },
+{ "type": "Feature", "properties": { "Name": "鵝鑾鼻考古遺址群", "descriptio": null, "T_Name": "恆春鎮", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.85137134069933, 21.902408188908542 ] } }
 ]
 }

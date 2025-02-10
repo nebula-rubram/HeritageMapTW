@@ -128,7 +128,7 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "新富市場", "descriptio": null, "period": "日", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.501941682461307, 25.035871465632724 ] } },
 { "type": "Feature", "properties": { "Name": "西本願寺（鐘樓、樹心會館）", "descriptio": null, "period": "日", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.507195734915001, 25.039915808833253 ] } },
 { "type": "Feature", "properties": { "Name": "慈雲寺", "descriptio": null, "period": "日", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.503993662799999, 25.046425900309064 ] } },
-{ "type": "Feature", "properties": { "Name": "臺糖臺北倉庫", "descriptio": null, "period": "日", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.494487146560502, 25.033375221732989 ] } },
+{ "type": "Feature", "properties": { "Name": "原臺灣製糖株式會社臺北製糖所倉庫", "descriptio": null, "period": "日", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.494487146560502, 25.033375221732989 ] } },
 { "type": "Feature", "properties": { "Name": "萬華林宅", "descriptio": null, "period": "日", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.498423040170707, 25.033526010791256 ] } },
 { "type": "Feature", "properties": { "Name": "艋舺助順將軍廟", "descriptio": null, "period": "日", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.503366603782098, 25.045852178127518 ] } },
 { "type": "Feature", "properties": { "Name": "艋舺洪氏祖厝", "descriptio": null, "period": "日", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.503610600967619, 25.031489195499113 ] } },
@@ -431,7 +431,6 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "臺廈郊會館", "descriptio": null, "period": "日", "T_Name": "馬公市", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.564144658927034, 23.563871138074294 ] } },
 { "type": "Feature", "properties": { "Name": "馬公大山堡壘砲臺", "descriptio": null, "period": "日", "T_Name": "馬公市", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.558216930000029, 23.52602654 ] } },
 { "type": "Feature", "properties": { "Name": "漁翁島稅關監視署", "descriptio": null, "period": "日", "T_Name": "西嶼鄉", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.482680730332916, 23.565321494922369 ] } },
-{ "type": "Feature", "properties": { "Name": "西嶼彈藥本庫", "descriptio": null, "period": "日", "T_Name": "西嶼鄉", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.510402892312229, 23.569798628562701 ] } },
 { "type": "Feature", "properties": { "Name": "乾益堂中藥行", "descriptio": null, "period": "日", "T_Name": "馬公市", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.56487046976801, 23.565213185798598 ] } },
 { "type": "Feature", "properties": { "Name": "高雄關稅局馬公支關", "descriptio": null, "period": "日", "T_Name": "馬公市", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.565423974537026, 23.563252433649016 ] } },
 { "type": "Feature", "properties": { "Name": "林投日軍上陸紀念碑", "descriptio": null, "period": "日", "T_Name": "湖西鄉", "C_Name": "澎湖縣" }, "geometry": { "type": "Point", "coordinates": [ 119.644938086922011, 23.561598242163214 ] } },
@@ -838,7 +837,7 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "打狗水道淨水池－淨水井", "descriptio": null, "period": "日", "T_Name": "鼓山區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.275262206987762, 22.625100624674136 ] } },
 { "type": "Feature", "properties": { "Name": "三塊厝火車站", "descriptio": null, "period": "日", "T_Name": "三民區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.293720176345019, 22.638808505842139 ] } },
 { "type": "Feature", "properties": { "Name": "武德殿", "descriptio": null, "period": "日", "T_Name": "鼓山區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.272404419861189, 22.624606090280945 ] } },
-{ "type": "Feature", "properties": { "Name": "西子灣蔣介石行館", "descriptio": null, "period": "日", "T_Name": "鼓山區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.264867678672005, 22.627256650311434 ] } },
+{ "type": "Feature", "properties": { "Name": "西子灣行館（原高雄觀光館）", "descriptio": null, "period": "日", "T_Name": "鼓山區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.264867678672005, 22.627256650311434 ] } },
 { "type": "Feature", "properties": { "Name": "原高雄市役所(高雄市立歷史博物館)", "descriptio": null, "period": "日", "T_Name": "鹽埕區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.286806921440217, 22.626865498462845 ] } },
 { "type": "Feature", "properties": { "Name": "旗後天后宮", "descriptio": null, "period": "日", "T_Name": "旗津區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.268523216904001, 22.613481091589438 ] } },
 { "type": "Feature", "properties": { "Name": "旗後燈塔", "descriptio": null, "period": "日", "T_Name": "旗津區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.26495817724701, 22.615395692028631 ] } },
@@ -1000,6 +999,15 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "北埔姜屋天水堂(新屋)", "descriptio": null, "period": "日", "T_Name": "北埔鄉", "C_Name": "新竹縣" }, "geometry": { "type": "Point", "coordinates": [ 121.058683707924487, 24.701463546949732 ] } },
 { "type": "Feature", "properties": { "Name": "竹東長春醫院", "descriptio": null, "period": "日", "T_Name": "竹東鎮", "C_Name": "新竹縣" }, "geometry": { "type": "Point", "coordinates": [ 121.087040401741532, 24.739333939314665 ] } },
 { "type": "Feature", "properties": { "Name": "全祥茶莊精製廠", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.508392906812531, 25.054941307127496 ] } },
-{ "type": "Feature", "properties": { "Name": "士林大東路54號店屋", "descriptio": null, "period": "日", "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.525492152441601, 25.089763500239766 ] } }
+{ "type": "Feature", "properties": { "Name": "士林大東路54號店屋", "descriptio": null, "period": "日", "T_Name": "士林區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.525492152441601, 25.089763500239766 ] } },
+{ "type": "Feature", "properties": { "Name": "清水李氏洋宅", "descriptio": null, "period": "日", "T_Name": "清水區", "C_Name": "臺中市" }, "geometry": { "type": "Point", "coordinates": [ 120.578143273007683, 24.270981256974935 ] } },
+{ "type": "Feature", "properties": { "Name": "八德三元宮", "descriptio": null, "period": "清", "T_Name": "八德區", "C_Name": "桃園市" }, "geometry": { "type": "Point", "coordinates": [ 121.28458501848101, 24.930205009408379 ] } },
+{ "type": "Feature", "properties": { "Name": "重慶南路一段104號店屋（原辻利茶舖）", "descriptio": null, "period": "日", "T_Name": "中正區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.513042159037212, 25.042455782329579 ] } },
+{ "type": "Feature", "properties": { "Name": "宜蘭舉人李望洋之墓", "descriptio": null, "period": "日", "T_Name": "宜蘭市", "C_Name": "宜蘭縣" }, "geometry": { "type": "Point", "coordinates": [ 121.746921464400799, 24.778119160835956 ] } },
+{ "type": "Feature", "properties": { "Name": "龜山島遊覽遭難者之招魂碑", "descriptio": null, "period": "日", "T_Name": "頭城鎮", "C_Name": "宜蘭縣" }, "geometry": { "type": "Point", "coordinates": [ 121.902518133797273, 24.941751988028599 ] } },
+{ "type": "Feature", "properties": { "Name": "鐵道部臺北工場車輛修理工場", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510751954305121, 25.049758509999766 ] } },
+{ "type": "Feature", "properties": { "Name": "北港蔡然標古厝", "descriptio": null, "period": "日", "T_Name": "北港鎮", "C_Name": "雲林縣" }, "geometry": { "type": "Point", "coordinates": [ 120.303920147115818, 23.566003149453792 ] } },
+{ "type": "Feature", "properties": { "Name": "夏興陳鴻佐古厝", "descriptio": null, "period": "清", "T_Name": "金湖鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.395726205395135, 24.440483500581948 ] } },
+{ "type": "Feature", "properties": { "Name": "臺南東門長老教會禮拜堂", "descriptio": null, "period": "日", "T_Name": "東區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.215659904762759, 22.987894304129163 ] } }
 ]
 }
