@@ -54,7 +54,7 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "臺北監獄圍牆遺跡", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.525163445761208, 25.03069779672915 ] } },
 { "type": "Feature", "properties": { "Name": "臺北監獄圍牆遺跡", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.526368807791897, 25.032868405379194 ] } },
 { "type": "Feature", "properties": { "Name": "老松國小", "descriptio": null, "period": "日", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.502721042063314, 25.037861282575214 ] } },
-{ "type": "Feature", "properties": { "Name": "西門紅樓", "descriptio": null, "period": "日", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.506831076537793, 25.041935580566673 ] } },
+{ "type": "Feature", "properties": { "Name": "西門紅樓（原新起街市場）", "descriptio": null, "period": "日", "T_Name": "萬華區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.506831076537793, 25.041935580566673 ] } },
 { "type": "Feature", "properties": { "Name": "北投普濟寺", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.511261691442897, 25.135952300957918 ] } },
 { "type": "Feature", "properties": { "Name": "前日軍衛戍醫院北投分院", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.509047155591205, 25.138675583489334 ] } },
 { "type": "Feature", "properties": { "Name": "長老教會北投教堂", "descriptio": null, "period": "日", "T_Name": "北投區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.501342022611396, 25.131303594606091 ] } },
@@ -355,7 +355,7 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "蘇氏節孝坊", "descriptio": null, "period": "清", "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.971662504542593, 24.819577402107807 ] } },
 { "type": "Feature", "properties": { "Name": "李錫金孝子坊", "descriptio": null, "period": "清", "T_Name": "東區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.967443365810297, 24.780072370882632 ] } },
 { "type": "Feature", "properties": { "Name": "竹蓮里傳統聚落古井", "descriptio": null, "period": "清", "T_Name": "東區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.970578255069299, 24.799259738491678 ] } },
-{ "type": "Feature", "properties": { "Name": "淨業院", "descriptio": null, "period": "清", "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.959386499999979, 24.818614500000077 ] } },
+{ "type": "Feature", "properties": { "Name": "淨業院", "descriptio": null, "period": "清", "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.959156101426842, 24.818703325613672 ] } },
 { "type": "Feature", "properties": { "Name": "舊港導航標桿", "descriptio": null, "period": "日", "T_Name": "北區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.940663129225314, 24.847020562271137 ] } },
 { "type": "Feature", "properties": { "Name": "新竹神社殘蹟及其附屬建築", "descriptio": null, "period": "日", "T_Name": "香山區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.95246059481552, 24.791965007815843 ] } },
 { "type": "Feature", "properties": { "Name": "辛志平校長故居", "descriptio": null, "period": "日", "T_Name": "東區", "C_Name": "新竹市" }, "geometry": { "type": "Point", "coordinates": [ 120.973920550149614, 24.804333288698835 ] } },
@@ -1008,6 +1008,10 @@ var json__20 = {
 { "type": "Feature", "properties": { "Name": "鐵道部臺北工場車輛修理工場", "descriptio": null, "period": "日", "T_Name": "大同區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.510751954305121, 25.049758509999766 ] } },
 { "type": "Feature", "properties": { "Name": "北港蔡然標古厝", "descriptio": null, "period": "日", "T_Name": "北港鎮", "C_Name": "雲林縣" }, "geometry": { "type": "Point", "coordinates": [ 120.303920147115818, 23.566003149453792 ] } },
 { "type": "Feature", "properties": { "Name": "夏興陳鴻佐古厝", "descriptio": null, "period": "清", "T_Name": "金湖鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.395726205395135, 24.440483500581948 ] } },
-{ "type": "Feature", "properties": { "Name": "臺南東門長老教會禮拜堂", "descriptio": null, "period": "日", "T_Name": "東區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.215659904762759, 22.987894304129163 ] } }
+{ "type": "Feature", "properties": { "Name": "臺南東門長老教會禮拜堂", "descriptio": null, "period": "日", "T_Name": "東區", "C_Name": "臺南市" }, "geometry": { "type": "Point", "coordinates": [ 120.215659904762759, 22.987894304129163 ] } },
+{ "type": "Feature", "properties": { "Name": "原臺北帝國大學校舍文政學部研究室", "descriptio": null, "period": "日", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.535306715209174, 25.018059292096982 ] } },
+{ "type": "Feature", "properties": { "Name": "霧裡薛圳第二支線明渠", "descriptio": null, "period": "清", "T_Name": "大安區", "C_Name": "臺北市" }, "geometry": { "type": "Point", "coordinates": [ 121.533269801239129, 25.021540143151373 ] } },
+{ "type": "Feature", "properties": { "Name": "張敏衣冠塚", "descriptio": null, "period": "古", "T_Name": "金沙鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.41827570856988, 24.519899869503984 ] } },
+{ "type": "Feature", "properties": { "Name": "皇明誥贈一品夫人曾氏墓", "descriptio": null, "period": "古", "T_Name": "金城鎮", "C_Name": "金門縣" }, "geometry": { "type": "Point", "coordinates": [ 118.320890697159342, 24.417957661665291 ] } }
 ]
 }

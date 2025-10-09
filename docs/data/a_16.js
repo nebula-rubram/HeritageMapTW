@@ -24,6 +24,7 @@ var json__16 = {
 { "type": "Feature", "properties": { "Name": "嘉義舊監獄暨宿舍群", "descriptio": null, "T_Name": "東區", "C_Name": "嘉義市" }, "geometry": { "type": "Point", "coordinates": [ 120.460140041236556, 23.485308891282276 ] } },
 { "type": "Feature", "properties": { "Name": "彰化中興莊", "descriptio": null, "T_Name": "彰化市", "C_Name": "彰化縣" }, "geometry": { "type": "Point", "coordinates": [ 120.549004594780754, 24.082665833338524 ] } },
 { "type": "Feature", "properties": { "Name": "Padain傳統聚落(高燕及射鹿)", "descriptio": null, "T_Name": "瑪家鄉", "C_Name": "屏東縣" }, "geometry": { "type": "Point", "coordinates": [ 120.73174845053029, 22.670182431634217 ] } },
-{ "type": "Feature", "properties": { "Name": "原日本海軍航空隊官舍(樂群村)", "descriptio": null, "T_Name": "岡山區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.292531279915892, 22.788943732822979 ] } }
+{ "type": "Feature", "properties": { "Name": "原日本海軍航空隊官舍(樂群村)", "descriptio": null, "T_Name": "岡山區", "C_Name": "高雄市" }, "geometry": { "type": "Point", "coordinates": [ 120.292531279915892, 22.788943732822979 ] } },
+{ "type": "Feature", "properties": { "Name": "竹東林場建築群", "descriptio": null, "T_Name": "竹東鎮", "C_Name": "新竹縣" }, "geometry": { "type": "Point", "coordinates": [ 121.093597146769469, 24.736544918795698 ] } }
 ]
 }
